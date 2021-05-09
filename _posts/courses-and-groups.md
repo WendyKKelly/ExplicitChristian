@@ -1,13 +1,13 @@
 ---
 title: 'Recent Courses and Groups'
-excerpt: 'Life throws some pretty nutty stuff our way. If helpful to anyone, I have chosen to throw myself into some really interesting learning that has definitely helped shape my perspective. '
-coverImage: '/assets/blog/preview/cover.jpg'
+excerpt: 'Life throws'
+coverImage: '/assets/blog/courses-and-groups/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Wendy Kelly
+  name: 'Wendy Kelly'
   picture: '/assets/blog/authors/wendy.jpeg'
 ogImage:
-  url: '/assets/blog/preview/cover.jpg'
+  url: '/assets/blog/courses-and-groups/cover.jpg'
 ---
 
 Anyone who knows me at all would agree that I tend to dive into deep water around topics that interest me. I don't know why. Maybe I am ADHD, possibly "on the spectrum", easily have experienced a bit of hypomania. I don't know — just easier for me to file it all under "quirky" and move on.

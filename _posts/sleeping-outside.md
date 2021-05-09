@@ -1,10 +1,10 @@
 ---
 title: 'Sleeping Outside'
-excerpt: 'Honestly, I conjured writing this blog post and as  I was imagining where it would live, I realized that it was a perfect post for a personal site. And so this new site was born. '
+excerpt: 'Honestly'
 coverImage: '/assets/blog/sleeping-outside/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Wendy Kelly
+  name: 'Wendy Kelly'
   picture: '/assets/blog/authors/wendy.jpeg'
 ogImage:
   url: '/assets/blog/sleeping-outside/cover.jpg'
