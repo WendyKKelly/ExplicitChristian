@@ -1,6 +1,6 @@
 ---
 title: 'Rick Warren's Son Died And I Blamed Him'
-excerpt: 'I actually felt a bit hawkish, finding the blemish in the perfect family. It kind of sickens me, to be honest, that I did that.'
+excerpt: 'I actually felt a bit hawkish finding the blemish in the perfect family.'
 coverImage: '/assets/blog/no-fault/cover.jpg'
 date: '2021-05-24T05:35:07.322Z'
 author:
