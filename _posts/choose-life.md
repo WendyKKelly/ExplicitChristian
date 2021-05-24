@@ -1,8 +1,8 @@
 ---
 title: 'Choose Life'
-excerpt: 'Perfect first post.' 
+excerpt: 'So this morning, Mothers Day, I contemplated how much a choice life is.' 
 coverImage: '/assets/blog/choose-life/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+date: '2021-05-07T05:35:07.322Z'
 author:
   name: 'Wendy Kelly'
   picture: '/assets/blog/authors/wendy.jpeg'
@@ -42,11 +42,11 @@ Does that mean that abortion ought to be rare? Yes, actually, I do believe that.
 
 You, God, and no one else? YES.
 
-Not your parents. Not your representative in congress - whether a man or woman. Or person who is non-binary or any representation of human. 
+Not your parents. Not your representative in congress - whether a man or woman. Or a person who is non-binary or any representation of human. 
 
 ## Pro Choice
 
-It has been quite the year. I have a dear friend in Beirut who has fallen through the cracks and is unable to leave. His wife and kids are safe in Denver, but so far, he has not been able to leave. It's complicated — but his story has shown me how fragile our positions in life are. How, too, each day, we need to consciously realize we have been given the gift of life. Yes. I said it. I don't know your situation. I don't know the pain you are in. I do know that you staying in the arena, not checking out, is a choice.
+It has been quite the year. I have a dear friend in Beirut who has fallen through the cracks and is unable to leave. I bet he's pro-life in the more traditional sense but I don't know as we've never talked about it. His wife and kids are safe in Denver, but so far, he has not been able to leave. It's complicated — but his story has shown me how fragile our positions in life are. How, too, each day, we need to consciously realize we have been given the gift of life. Yes. I said it. I don't know your situation. I don't know the pain you are in. I do know that you staying in the arena, not checking out, is a choice.
 
 It's a choice. And each day, you really do need to recommit. 
 

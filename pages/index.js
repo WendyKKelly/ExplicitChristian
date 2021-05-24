@@ -16,7 +16,7 @@ export default function Index({ allPosts }) {
     <>
       <Layout>
         <Head>
-          <title>Wendy Kiana Kelly</title>
+          <title>Explicit Christian</title>
         </Head>
         <Container>
           <Intro />
