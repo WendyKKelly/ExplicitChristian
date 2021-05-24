@@ -1,6 +1,6 @@
 ---
 title: 'Ricky Gervais Is Awfully Christian'
-excerpt: 'I am sitting here with these Venn diagrams in my head. I want to explain them to you, to try to describe what essentially makes me Christian'
+excerpt: 'It occurred to me, again, that Ricky Gervais is one of those atheists I would most like to share a beer with.'
 coverImage: '/assets/blog/gervais-christian/cover.jpg'
 date: '2021-05-24T05:35:07.322Z'
 author:
