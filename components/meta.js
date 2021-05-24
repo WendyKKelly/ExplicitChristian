@@ -34,7 +34,7 @@ export default function Meta() {
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       <meta
         name="description"
-        content={`Let's start talking ${CMS_NAME}.`}
+        content={`Let's start talking explicitly.`}
       />
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
     </Head>
