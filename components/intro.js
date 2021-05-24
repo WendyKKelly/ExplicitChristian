@@ -14,7 +14,7 @@ export default function Intro() {
       
          
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Welcome to my humble attempt to explicitly explain what Christianity means to me :) (With only a little vulgar language){' '}
+        Recently our family was dealt a pretty tricky hand in the game of life. Welcome to my attempt to explain why my Christian faith gets me through.(With only a little vulgar language){' '}
         {' '}
         
       </h4>

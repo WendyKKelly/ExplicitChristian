@@ -25,12 +25,12 @@ export default function Alert({ preview }) {
             </>
           ) : (
             <>
-                 Visit {' '}
+                 Learn more about why I am doing this project  {' '}
               <a
-                href={`https://underbel.li`}
+                href={`https://www.buymeacoffee.com/ExplicitC`}
                 className="hover:bg-yellow duration-200 transition-colors"
               >
-                Underbelly and Wild + Precious
+                And Buy Me A Beer
               </a>
               .
             </>

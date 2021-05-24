@@ -20,7 +20,7 @@ export default function Index({ allPosts }) {
         </Head>
         <Container>
           <Intro />
-          <Subscribe />
+         
           {heroPost && (
             <HeroPost
               title={heroPost.title}
@@ -32,6 +32,7 @@ export default function Index({ allPosts }) {
             />
           )}
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+          <Subscribe />
         </Container>
       </Layout>
     </>

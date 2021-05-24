@@ -40,21 +40,22 @@ export default function Subscribe() {
        <div className="text-6xl md:text-6xl font-bold tracking-tighter leading-tight md:pr-8 p-4">
         {message
           ? message
-          : `Newsletter:`}
+          : `Newsletter? Yes!`}
       </div>
     <form onSubmit={subscribe}>
       <label htmlFor="email-input">{' '}</label>
       <input
         id="email-input"
         name="email"
-        placeholder="Email:"
+        placeholder="Email"
         ref={inputEl}
         required
         type="email"
       />
      
       <div className="text-6xl md:text-8xl font-bold tracking-tighter leading-tight md:pr-8 pt-4">
-      <button  type="submit">{'Submit '}</button></div>
+      <button  type="submit">{'Submit '}</button>
+      </div>
     </form>
     </Section>
   );
