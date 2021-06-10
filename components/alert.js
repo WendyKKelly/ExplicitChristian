@@ -27,7 +27,7 @@ export default function Alert({ preview }) {
             <>
                  Learn more about why I am doing this project  {' '}
               <a
-                href={`https://www.buymeacoffee.com/ExplicitC`}
+                href={`https://www.buymeacoffee.com/wendykkelly`}
                 className="hover:bg-yellow duration-200 transition-colors"
               >
                 And Buy Me A Beer
