@@ -24,7 +24,9 @@ button:hover {
     
     
 }
-
+.message {
+    
+}
 input {
 
     border-bottom: solid;
