@@ -1,13 +1,13 @@
 ---
 title: 'Toxic Christianity'
-excerpt: 'I fully understand that when we see Christians raising children in a way that seems to fly in the face of everything Jesus said, it is important to call that out.' 
+excerpt: 'A pastor or any leader in a Christian church whose behaviour is anti-Christlike should be a red flag. Certainly, that person might be able to seek other employment until they understand the ethics behind attempting to lead Christians in an unChristian way. ' 
 coverImage: '/assets/blog/toxic-christianity/cover.jpg'
-date: '2021-05-07T05:35:07.322Z'
+date: '2021-06-13T05:35:07.322Z'
 author:
   name: 'Wendy Kelly'
   picture: '/assets/blog/authors/wendy.jpeg'
 ogImage:
-  url: '/assets/blog/toxi-chrisitanity/cover.jpg'
+  url: '/assets/blog/toxic-chrisitanity/cover.jpg'
 ---
 
 This morning I began reading about something called Christian Sexology. WOW. 
@@ -22,7 +22,7 @@ Because happily married does not happen in a set it and forget it system. Marria
 
 And, I guess this should be obvious, but I think you will understand why I have to state it clearly: Happy marriage requires mutual respect. 
 
-![mark gungor meme](https://explicit-christian/public/assets/mark-gungor-meme.png)
+![mark gungor meme](/public/assets/mark-gungor-meme.png)
 
 So, this meme is shared by Mark Gungor. He calls himself a pastor but I am a little confused by that because I was unaware that a pastor could demean and belittle people. And yet, it seems to be part of his modus operandi. So I think I will assume that he's simply a lost, confused person in need of help who would like one day to be a pastor but has not yet finished his healing. 
 
