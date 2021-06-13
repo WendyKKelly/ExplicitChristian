@@ -22,7 +22,7 @@ Because happily married does not happen in a set it and forget it system. Marria
 
 And, I guess this should be obvious, but I think you will understand why I have to state it clearly: Happy marriage requires mutual respect. 
 
-![mark gungor meme](/public/assets/mark-gungor-meme.png)
+![mark gungor meme](/assets/mark-gungor-meme.png)
 
 So, this meme is shared by Mark Gungor. He calls himself a pastor but I am a little confused by that because I was unaware that a pastor could demean and belittle people. And yet, it seems to be part of his modus operandi. So I think I will assume that he's simply a lost, confused person in need of help who would like one day to be a pastor but has not yet finished his healing. 
 
