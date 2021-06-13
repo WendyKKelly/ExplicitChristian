@@ -44,7 +44,7 @@ Man alive I wish that would stop. Let's please allow the voices of people like S
 
 We can and should disagree. However, coming from a place of respect, a deep understanding of the story arc of the Bible and God's intention, and understanding that we might be swayed by a confirmation bias — especially when reading a deep wisdom book such as the Bible — is crucial.
 
-Obviously, when a pastor publicly spreads memes the degrade his flock and sees nothing wrong with this, that alone should be reason to pause and not listen to that person's teachings until they have repented and made effort to change their ways.
+Obviously, when a pastor publicly spreads memes that degrade his flock and sees nothing wrong with this, that alone should be reason to pause and not listen to that person's teachings until they have repented and made effort to change their ways.
 
 A pastor or any leader in a Christian church whose behaviour is anti-Christlike should be a red flag. Certainly, that person might be able to seek other employment until they understand the ethics behind attempting to lead Christians in an unChristian way. 
 
