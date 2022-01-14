@@ -27,10 +27,10 @@ export default function Alert({ preview }) {
             <>
                  Learn more about why I am doing this project  {' '}
               <a
-                href={`https://www.buymeacoffee.com/wendykkelly`}
+                href={`https://www.youtube.com/channel/UCWh7VTxiXz8HL-Ghf2caC0A/videos`}
                 className="hover:bg-yellow duration-200 transition-colors"
               >
-                And Buy Me A Beer
+                And subscribe to my YouTube channel :)
               </a>
               .
             </>
