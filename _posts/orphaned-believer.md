@@ -10,11 +10,11 @@ ogImage:
   url: '/assets/blog/orphaned-believer/cover.jpg'
 ---
 
-I've been following Sara Billups. At this point, I feel like I would follow her to the ends of the earth. She is lovely. And, I just realized, it looks like she started her blog at the same time that I started this one...: ["Why I'm an Orphaned Believer. And Maybe you are, Too."](https://www.sarabillups.com/journal/define-orphaned-believers).
+I've been following Sara Billups. At this point, I feel like I would follow her to the ends of the earth. She is lovely. And, I just realized, it looks like she started her blog at the same time that I started this one...: ["Why I'm an Orphaned Believer. And Maybe you are, Too."](https://www.sarabillups.com/journal/define-orphaned-believers)
 
 Saying you are Christian these days not only makes you decidedly the opposite of hip :) it also, and more seriously, oftentimes can trigger trauma in the person you are speaking to. 
 
-Here's the thing: "Christians" have done heinous things in the name of Christ over the past mellenia but Christ is still Christ.
+Here's the thing: "Christians" have done heinous things in the name of Christ over the past millenia but Christ is still Christ.
 
 I have sat with that for decades, staying a pretty consistent Jesus Freak at home but not wanting to induce trauma by professing my faith outside my home over the past years (the full story is more complicated but this gist is true).
 
@@ -38,7 +38,7 @@ So, yeah, I understand how difficult this whole thing is. And still, I say, Jesu
 
 Over the last year especially, life has thrown me some serious reasons to know beyond a shadow of a doubt that my faith in Jesus is the fulcrum anchoring me.
 
-My project, Underbelly, ostensibly about helping people through burnout by encouraging and showing how to love that unlovable stuff in life is nothing without my faith. I keep dancing around that obvious point until I realized that I am nothing without my faith and that is not only okay, it's something to start talking about.
+My project, Underbelly, ostensibly about helping people through burnout by encouraging and showing how to love that unlovable stuff in life is nothing without my faith. I kept dancing around that obvious point until I realized that I am nothing without my faith and that is not only okay, it's something to start talking about.
 
 I deeply respect other faith traditions (I almost wrote "all" but that is not actually true. There are faith traditions I don't actually respect) I also happen to have stayed steadfastly Christian. Despite the disgusting heinous actions of people who would try to co-opt my faith, who would try to usurp the words I love so much and literally sometimes change their very meaning.
 
