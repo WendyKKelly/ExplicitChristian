@@ -2,7 +2,7 @@
 title: "Useless"
 excerpt: "As soon as I finished, I knew that I needed to write about it in a Christian context."
 coverImage: "/assets/blog/useless/cover.jpg"
-date: "2022-01-01T05:35:07.322Z"
+date: "2022-01-10T05:35:07.322Z"
 author:
   name: "Wendy Kelly"
   picture: "/assets/blog/authors/wendy.jpeg"
