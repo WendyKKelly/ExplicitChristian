@@ -111,10 +111,122 @@ I am not sure about this, but I have a good deal of faith that if we grumble for
 
 
 ## <a id="Four"></a>Day Four ##
+> Psalm 104:14 - 15 CSB
+> 14He causes grass to grow for the livestock
+>and provides crops for man to cultivate,
+>producing food from the earth
+>15wine that makes human hearts glad —
+>making his face shine with oil —
+>and bread that sustains human hearts.
+
+### Lord My God You are Very Great ###
+
+_Dear Lord — Creator of the Universe, Author of the Laws of the Universe._
+
+_You wear light like a robe, spreading out the sky like a canopy (Psalm 104:2)_
+
+_You cause springs to gush into valleys (Psalm 104:10). The birds live beside the springs (Psalm 104:12). You made the moon to mark the festivals (Psalm 104:19)._
+
+_Spending time near the stuff you created is such an important part of being human. Of being part of your creation, of dwelling on the idea that we are made in your image._
+
+_Amen._
+
+Noticing and indulging in all you have created is good for us.
+
+When we allow ourselves to simply spend time dwelling in what you have created, we are closer to you. 
+
+Looking up at the moon and remembering that You, Lord, you made that moon. You made it so that we could mark the festivals. You gave us the water we drink. You give us our food.
+
 ## <a id="Five"></a>Day Five ##
+
+> 1John 1:1 - 4 CSB
+> 1What was from the beginning,what we have heard, what we have seen with our eyes, what we have observed and have touched with our hands, concerning the word of life —  2that life was revealed, and we have seen it and we testify and declare to you the eternal life that was with the Father and was revealed to us  —  3what we have seen and heard we also declare to you, so that you may also have fellowship with us; and indeed our fellowship is with the Father and with his Son, Jesus Christ. 4We are writing these things so that our joy may be complete.
+
+### So Our Joy May Be Complete ###
+
+_Dear Lord — Creator of the Universe, Author of the Laws of the Universe._
+
+_We declare to you_
+
+_So that you may also have fellowship with us._
+
+_So that our joy may be complete._
+
+_Amen._
+
+How often do I actually declare to you?
+
+What I have seen and heard and touched — How often do I take the time to declare to you what you have created?
+
+
 ## <a id="Six"></a>Day Six ##
+
+> 1John :15 - 17 CSB
+> 15Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him. 16For everything in the world — the lust of the flesh, the lust of the eyes, and the pride in one’s possessions — is not from the Father, but is from the world. 17And the world with its lust is passing away, but the one who does the will of God remains forever.
+
+### Do Not Love The World ###
+
+_Dear Lord — Creator of the Universe, Author of the Laws of the Universe._
+
+_We love you._
+
+_We love your creation. We love the things that are part of your creation._
+
+_Amen._
+
+Sometimes it can feel so tiring when I am submerged in "the world".
+
+I honestly think it's almost too much for my soul, for my brain, to try to play "whack a mole" against the "things of this world". Instead, I wonder, what about simply turning toward God, toward creation, and letting everything else fall away and slowly become unimportant?
+
 ## <a id="Seven"></a>Day Seven ##
+
+> Ephesians 1:9 - 10 CSB
+> 9 He made known to us the mystery of his will, according to his good pleasure that he purposed in Christ 10 as a plan for the right time Or the fulfillment of times  — to bring everything together in Christ, both things in heaven and things on earth in him.
+
+### As A Plan For The Right Time ###
+
+_Dear Lord — Creator of the Universe, Author of the Laws of the Universe._
+
+_When your child asks you for bread, you don't give him a stone. (Matthew 7:9) Right?_
+
+_Sometimes your will is such a mystery to me. Remembering that it is a plan for the right time helps so much when I feel like I am wandering in the darkness. Thank you, Lord, for giving me bread as a plan at the right time._
+
+_Amen._
+
+When I am confused by what the day has presented me, I try to remember that our Father in heaven is just that: a perfect father.
+
+And I am his small toddler-like child. Maybe to Our Father's ears, I am asking to stay up all night. Or maybe it sounds like I am asking for ice cream for breakfast and cotton candy for lunch.
+
+Sometimes it is helpful for me to remember that, just as sometimes a good and loving parent will listen carefully to what their child wants and still help to steer them away from that thing, Our Father also does this for us because there is a plan for the right time.
+
 ## <a id="Eight"></a>Day Eight ##
+> Colossians 1:15 - 17 CSB
+> 15He is the image of the invisible God,
+> the firstborn over all creation.
+> 16For everything was created by him,
+> in heaven and on earth,
+> the visible and the invisible,
+> whether thrones or dominions
+> or rulers or authorities —
+> all things have been created through him and for him.
+> 17He is before all things,
+> and by him all things hold together.
+
+### As A Plan For The Right Time ###
+
+_Dear Lord — Creator of the Universe, Author of the Laws of the Universe._
+
+_When your child asks you for bread, you don't give him a stone. (Matthew 7:9) Right?_
+
+_Sometimes your will is such a mystery to me. Remembering that it is a plan for the right time helps so much when I feel like I am wandering in the darkness. Thank you, Lord, for giving me bread as a plan at the right time._
+
+_Amen._
+
+When I am confused by what the day has presented me, I try to remember that our Father in heaven is just that: a perfect father.
+
+And I am his small toddler-like child. Maybe to Our Father's ears, I am asking to stay up all night. Or maybe it sounds like I am asking for ice cream for breakfast and cotton candy for lunch.
+
+Sometimes it is helpful for me to remember that, just as sometimes a good and loving parent will listen carefully to what their child wants and still help to steer them away from that thing, Our Father also does this for us because there is a plan for the right time.
 ## <a id="Nine"></a>Day Nine ##
 ## <a id="Ten"></a>Day Ten ##
 ## <a id="Eleven"></a>Day Eleven ##
