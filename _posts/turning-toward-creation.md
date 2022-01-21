@@ -235,16 +235,243 @@ _You are the radiance of God's glory. Thank you for sustaining all things._
 
 _Amen._
 
-I think sometimes it is easy to forget Who literally holds all this together.
+Praising, making sure we make explicit who it actually is that we worship, is something I at least need to remember to do more often.
+
+Sometimes it takes my breath away as I say the words out loud: You are the radiance of God's glory.
+
+Think about the last time you saw someone who looked radiant. And now realize that our Lord is radiance.
+
 ## <a id="Ten"></a>Day Ten ##
+> Proverbs 8:30 -31 CSB
+> 30I was a skilled craftsman beside him.
+> I was his delight every day,
+> always rejoicing before him.
+> 31I was rejoicing in his inhabited world,
+> delighting in the children of Adam.
+
+### Wisdom and Creation ###
+
+_Dear Lord — Wonderful Counselor, Prince of Peace._
+
+_Wisdom assisted You in your creative process. Lord, thank you for the gift of wisdom. Thank you for delighting in wisdom and allowing us the chance to access her._
+
+_Amen._
+
+Knowing that wisdom was right there, before the first soil, before the mountains, when there were no watery depths (Proverbs 8:24 - 26) fills me with awe.
+
+This Lord we worship, wisdom is right beside him, rejoicing.
+
 ## <a id="Eleven"></a>Day Eleven ##
+> Job 38:3 - 7 CSB
+> 3Get ready to answer me like a man;
+> when I question you, you will inform me.
+> 4Where were you when I established the earth?
+> Tell me, if you have understanding.
+> 5Who fixed its dimensions? Certainly you know!
+> Who stretched a measuring line across it?
+> 6What supports its foundations?
+> Or who laid its cornerstone
+> 7while the morning stars sang together
+> and all the sons of God shouted for joy?
+
+### When You Question Me ###
+
+_Dear Lord — King of Kings, Prince of Peace._
+
+_You are most high. How do I have the audacity sometimes to question your power?_
+
+_You are there when it's raining in my life. You are there, holding everything together, when I feel like I can't go on. You are the One who literally makes it rain and stops the rain. Thank you for being the creator of the universe who created me. Thank you for literally holding all this together._
+
+_Amen._
+
+Can you even imagine being Job? Such a loyal, faithful, good person! And still, stuff happened. Even to Job. Stuff happens. Life happens — to all of us. And the whole time stuff is happening, God is holding it all together. He literally laid the cornerstone. He's got this.
+
 ## <a id="Twelve"></a>Day Twelve ##
+
+> Job 38:31 - 35 CSB
+> 31Can you fasten the chains of the Pleiades
+> or loosen the belt of Orion?
+> 32Can you bring out the constellations in their season
+> and lead the Bear and her cubs?
+> 33Do you know the laws of heaven?
+> Can you impose its authority on earth?
+> 34Can you command your voice to the clouds
+> so that a flood of water covers you?
+> 35Can you send out lightning bolts, and they go?
+> Do they report to you, “Here we are”?
+
+### They Report to You ###
+
+_Dear Lord — King of Kings, Prince of Peace._
+
+_Thank you for reminding me, in sometimes not so subtle ways, that you are the Lord of Lords, the King of Kings and I am your creation._
+
+_No, I do not know the laws of heaven. I don't know how to lead bears. No, of course I can't impose the authority of the laws of heaven on earth._
+
+_In the same way a secure toddler rests in their parents' strong loving arms, I am so glad that I can't send our lightning blots, so glad they don't report to me and say, "Here we are"._
+
+_Amen._
+
+Sometimes it can be so reassuring to be reminded that we are in good hands. We aren't driving this ship; we aren't in control. We have free will, sure, but ultimately, God's in control.
+
 ## <a id="Thirteen"></a>Day Thirteen ##
+> Romans 5:6 - 9 CSB
+> For while we were still helpless, at the right time, Christ died for the ungodly. 7For rarely will someone die for a just person — though for a good person perhaps someone might even dare to die. 8But God proves his own love for us in that while we were still sinners, Christ died for us. 9How much more then, since we have now been justified by his blood, will we be saved through him from wrath.
+### You Died For Us ###
+
+_Dear Lord — King of Kings, Prince of Peace._
+
+_How can I even say, "Thank you for dying for me?"_
+
+_Rarely will someone die for just one person. True enough. And yet you died for us, even as we were completely unaware of the need and ungrateful for the offer._
+
+_That is a lot to take in sometimes, and I ask that I be given the grace to sit in wonder at the depth of your love for us._
+
+_Amen._
+
+I am in awe at the depth of the love our God has for us. Now. Always.
+
 ## <a id="Fourteen"></a>Day Fourteen ##
+
+> Genesis 1:1 - 4 CSB
+> 1In the beginning God created the heavens and the earth.
+> 2Now the earth was formless and empty, darkness covered the surface of the watery depths, and the Spirit of God was hovering over the surface of the waters. 3Then God said, “Let there be light,” and there was light. 4God saw that the light was good, and God separated the light from the darkness.
+
+### In the Beginning ###
+
+_Dear Lord — Creator._
+
+_You took darkness and chaos and made it beautiful_
+
+_You looked down on the chaos, the darkness, the formless, empty mess and saw potential._
+
+_Thank you._
+
+_Amen._
+
+Even when all we can see is dark grey skies and endless night, God sees potential. God knows that light will come and it will be good.
+
 ## <a id="Fifteen"></a>Day Fifteen ##
+
+> Genesis 2:2 - 3 CSB
+> 2On the seventh day God had completed his work that he had done, and he rested on the seventh day from all his work that he had done. 3God blessed the seventh day and declared it holy, for on it he rested from all his work of creation.
+
+### You Rested ###
+
+_Dear Lord — Creator._
+
+_You are the perfect role model for us._
+
+_You created. You completed your work and then you rested. You blessed the day you rested. You declared it holy because on it you rested._
+
+_Amen._
+
+We need to work. We need to complete our work. And then the holiday begins.
+The holy day of rest that we need begins as soon as our work is complete. I want to live a life where I have that balance between creation and rest, work and holy resting time.
+
 ## <a id="Sixteen"></a>Day Sixteen ##
+> Genesis 2:8 - 10 CSB
+> 8The Lord God planted a garden in Eden, in the east, and there he placed the man he had formed. 9The Lord God caused to grow out of the ground every tree pleasing in appearance and good for food, including the tree of life in the middle of the garden, as well as the tree of the knowledge of good and evil.
+> 10A river went from Eden to water the garden.
+
+### You Planted a Garden ###
+
+_Dear Lord — Creator._
+
+_Thank you for creating a garden for us to live in, with everything we need._
+
+_This world we live in has everything we need to thrive. To work, create, and rest._
+
+_Amen._
+
+I am so grateful when I can realize that this earth is a garden, given to us by God, with everything we need in it. We have all the stuff we need to create everything we need, including all the stuff we need to rest and have our holy days.
+
 ## <a id="Seventeen"></a>Day Seventeen ##
+
+> 1 John 3:1 - 2 CSB
+> 1See what great love the Father has given us that we should be called God’s children — and we are! The reason the world does not know us is that it didn’t know him. 2Dear friends, we are God’s children now, and what we will be has not yet been revealed.
+> 
+### We are Your Children ###
+
+_Dear Lord — Abba._
+
+_I love so much that you are the kind of God who calls us his children._
+
+_Amen._
+
+I am so grateful that our God is the perfect father God. Who we will be when we meet him face-to-face has not yet been revealed. But until that day, we are well cared for, adored children.
+
 ## <a id="Eighteen"></a>Day Eighteen ##
+
+
+ >Jeremiah 2:13 CSB
+>  For my people have committed a double evil: They have abandoned me, the fountain of living water, and dug cisterns for themselves —  cracked cisterns that cannot hold water.
+
+### We Will Not Abandon You ###
+
+_Dear Lord — Abba._
+
+_How often do I get close to you, only to suddenly back away, perhaps out of fear of your awesomeness, and dig my own cisterns?._
+
+_And how often do those cisterns crack and leak, spilling everywhere?_
+
+_Thank you for always waiting patiently for me to return to you, broken cistern in hand, for you to mend it, wipe my tears, help me to take a drink from your fountain of living water?_
+
+_Amen._
+
+Our God is waiting so patiently for us to drink from the fountain of living water.
+
 ## <a id="Nineteen"></a>Day Nineteen ##
+
+
+ >Ephesians 4:25 - 28 CSB
+>  25Therefore, putting away lying, speak the truth, each one to his neighbor, because we are members of one another. 26Be angry and do not sin. Don’t let the sun go down on your anger, 27and don’t give the devil an opportunity. 28Let the thief no longer steal. Instead, he is to do honest work with his own hands, so that he has something to share with anyone in need.
+
+### Speak The Truth ###
+
+_Dear Lord — Abba._
+
+_What you ask of us is so utterly human._
+
+_You ask us to work so that we can have enough to share. You ask us to speak the truth — be angry — and take care of everything before the sun goes down._
+
+_Thank you that you are a Father who wants us to live in the light, forthright, honest, and unafraid._
+
+_Amen._
+
+I think sometimes I get my Bible twisted and think that God wants me to be "nice" — But God clearly asks more from us than that. We are forthright, upstanding children who do get angry, honestly and clearly taking care of what angers us before the sun goes down. We work so that we can share with each other.
+
 ## <a id="Twenty"></a>Day Twenty ##
+
+> Philippians 4:6
+> 
+> Don’t worry about anything, but in everything, through prayer and petition with thanksgiving, present your requests to God.
+
+### We Will Not Worry ###
+
+_Dear Lord — Abba._
+
+_Through prayer and petition with thanksgiving._
+
+_Everything — everything we will present to you._
+
+_Amen._
+
+It can seem overwhelming to realize that worrying is something we are actually not allowed to do as Christians. It can seem so "caring" to worry about our children, our family, our friends. And actually, it's just the opposite.
 ## <a id="Twentyone"></a>Day Twentyone ##
+
+> Matthew 5:16
+
+> In the same way, let your light shine before others, so that they may see your good works and give glory to your Father in heaven.
+
+### Our Light Will Shine ###
+
+_Dear Lord — Abba._
+
+_Thank you for allowing our good works to shine ahead of us._
+
+_We know we are saved by grace, but being saved is just a part of our relationship. Thank you for filling our hearts with ideas for how to work for you, for our neighbours, for this creation you have created._
+
+_Amen._
+
+Good works are a gift from God. Sure, we're saved by grace, but that is just the beginning of our relationship.
