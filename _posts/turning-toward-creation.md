@@ -212,22 +212,30 @@ Sometimes it is helpful for me to remember that, just as sometimes a good and lo
 > 17He is before all things,
 > and by him all things hold together.
 
-### As A Plan For The Right Time ###
+### By Him All Things Hold Together ###
 
-_Dear Lord — Creator of the Universe, Author of the Laws of the Universe._
+_Dear Lord — Wonderful Counselor, Prince of Peace._
 
-_When your child asks you for bread, you don't give him a stone. (Matthew 7:9) Right?_
-
-_Sometimes your will is such a mystery to me. Remembering that it is a plan for the right time helps so much when I feel like I am wandering in the darkness. Thank you, Lord, for giving me bread as a plan at the right time._
+_Thank you for holding all this together._
 
 _Amen._
 
-When I am confused by what the day has presented me, I try to remember that our Father in heaven is just that: a perfect father.
+I think sometimes it is easy to forget Who literally holds all this together.
 
-And I am his small toddler-like child. Maybe to Our Father's ears, I am asking to stay up all night. Or maybe it sounds like I am asking for ice cream for breakfast and cotton candy for lunch.
-
-Sometimes it is helpful for me to remember that, just as sometimes a good and loving parent will listen carefully to what their child wants and still help to steer them away from that thing, Our Father also does this for us because there is a plan for the right time.
 ## <a id="Nine"></a>Day Nine ##
+
+> Hebrews 1:2 - 4 CSB
+> 2In these last days, he has spoken to us by his Son. God has appointed him heir of all things and made the universe through him. 3The Son is the radiance of God’s glory and the exact expression of his nature, sustaining all things by his powerful word. After making purification for sins,  he sat down at the right hand of the Majesty on high.  4So he became superior to the angels, just as the name he inherited is more excellent than theirs.
+
+### Superior to the Angels ###
+
+_Dear Lord — Wonderful Counselor, Prince of Peace._
+
+_You are the radiance of God's glory. Thank you for sustaining all things._
+
+_Amen._
+
+I think sometimes it is easy to forget Who literally holds all this together.
 ## <a id="Ten"></a>Day Ten ##
 ## <a id="Eleven"></a>Day Eleven ##
 ## <a id="Twelve"></a>Day Twelve ##
