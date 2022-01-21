@@ -23,6 +23,10 @@ blockquote {
     padding: 0 1.6 0 2em;
   }
 
+h4 {
+line-height: 2.5rem;
+
+}
 /* Start purging... */
 @tailwind utilities;
 /* Stop purging. */

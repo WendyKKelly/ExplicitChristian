@@ -5,7 +5,7 @@ import Intro from '../components/intro'
 import Layout from '../components/layout'
 import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
-//import Subscribe from '../components/Subscribe';
+import Subscribe from '../components/Subscribe';
 
 
 
@@ -32,7 +32,7 @@ export default function Index({ allPosts }) {
             />
           )}
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}
-          
+          <Subscribe />
         </Container>
       </Layout>
     </>
