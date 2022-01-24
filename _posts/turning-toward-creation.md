@@ -521,4 +521,23 @@ _Thank you for taking such care, for  being the God you are._
 _Amen._
 
 We are so blessed to have been created with such care by a God whose works are wondrous.
+## <a id="Twentyfour"></a>Day Twentyfour ##
 
+> Deuteronomy 6:12 CSB
+
+> 12 ...be careful not to forget the Lord who brought you out of the land of Egypt, out of the place of slavery.
+
+### Unforgetable ###
+
+_Dear Lord — King of Kings._
+
+_How powerful you are. And how gentle with us._
+
+_I find it unimaginable sometimes, as a parent myself, that you really are this strong and caring._
+
+_Thank you for helping me to never forget you and what you have done for us, what you will continue to do for us. And that what you ask of us is so important and doable._
+
+_Amen._
+
+When I commune with God the Father through Jesus, I  am often in awe of the love and strength and gentleness and power.
+That combination defies human language, I think. It defies human expression. One day we will meet Him face-to-face and we will understand it. Until then, we really do need an element of pure obedience sometimes. There is no way we can fully understand a Father who loves his creation so much and is so powerful. And yet it is true. Let our hearts be as aligned as possible with His will. 
