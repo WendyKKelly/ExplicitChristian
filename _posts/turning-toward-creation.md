@@ -31,6 +31,8 @@ ogImage:
  * #### [Day Nineteen](#Nineteen)
  * #### [Day Twenty](#Twenty)
  * #### [Day Twentyone](#Twentyone)
+ * #### [Day Twentytwo](#Twentytwo)
+ * #### [Day Twentythree](#Twentythree)
 
 ## <a id="One"></a>Day One ##
 
@@ -475,3 +477,48 @@ _We know we are saved by grace, but being saved is just a part of our relationsh
 _Amen._
 
 Good works are a gift from God. Sure, we're saved by grace, but that is just the beginning of our relationship.
+
+## <a id="Twentytwo"></a>Day Twentytwo ##
+
+> Psalms 19:14 CSB
+
+> May the words of my mouth and the meditation of my heard be acceptable to you, Lord, my rock and my Redeemer.
+
+### My Rock ###
+
+_Dear Lord — Great Redeemer._
+
+_What a weighted relationship this is, Lord._
+
+_I sit here, adored by you. You adore me. You know everyhair on my head. You knit me in my mother's womb. You know me, care for me, adore me._
+
+_And you are my rock. You are the Redeemer. You are the Creator of the Universe._
+
+_May my words always be acceptable to you._
+
+_Amen._
+
+How is it so difficult to understand that we ought to at least try to say, think, and do things that you might find favor with? 
+How is it even a thing that we sometimes (I know I do!) whine and complain to you? I know — we are the children in this relationship and you patiently wait for us to better understand. 
+But with that grace, maybe let us try a little harder to fathom who it is we are actually in a realtionship with?
+
+## <a id="Twentythree"></a>Day Twentythree ##
+
+> Psalms 139:13 - 14 CSB
+
+> 13 For it was you who created my inward parts; you knit me together in my mother's womb. 14 I will praise you because I have been remarkable and wonderously made. Your works are wondrous, and I know this very well.
+
+### You Know Me ###
+
+_Dear Lord — Creator, Abba._
+
+_You know me so well. You made me so well._
+
+_You took such care with me, with all of us. This creation, it's all wondrous._
+
+_Thank you for taking such care, for  being the God you are._
+
+_Amen._
+
+We are so blessed to have been created with such care by a God whose works are wondrous.
+
