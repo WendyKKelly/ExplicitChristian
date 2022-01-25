@@ -541,3 +541,21 @@ _Amen._
 
 When I commune with God the Father through Jesus, I  am often in awe of the love and strength and gentleness and power.
 That combination defies human language, I think. It defies human expression. One day we will meet Him face-to-face and we will understand it. Until then, we really do need an element of pure obedience sometimes. There is no way we can fully understand a Father who loves his creation so much and is so powerful. And yet it is true. Let our hearts be as aligned as possible with His will. 
+## <a id="Twentyfive"></a>Day Twentyfive ##
+
+> Deuteronomy 6:12 CSB
+
+> 21Do not be conquered by evil, but conquer evil with good.
+
+### Vengance is Yours ###
+
+_Dear Lord — King of Kings._
+
+_You are a good father. Vengance is yours, not mine.._
+
+_So thank you for helping me feed my enemy and give him something to drink._
+
+_Amen._
+
+Holding the idea that God is both the best parent that ever existed with the fact that He also created the universe is challenging.
+But then, leaning into that image of the most gentle and most powerful Creator, I can relax and simply do my one job of loving my neighbour. 
