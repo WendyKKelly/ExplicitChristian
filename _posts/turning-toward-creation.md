@@ -33,6 +33,9 @@ ogImage:
  * #### [Day Twentyone](#Twentyone)
  * #### [Day Twentytwo](#Twentytwo)
  * #### [Day Twentythree](#Twentythree)
+ * #### [Day Twentyfour](#Twentyfour)
+ * #### [Day Twentyfive](#Twentyfive)
+
 
 ## <a id="One"></a>Day One ##
 
