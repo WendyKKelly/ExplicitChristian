@@ -36,6 +36,7 @@ ogImage:
  * #### [Day Twentyfour](#Twentyfour)
  * #### [Day Twentyfive](#Twentyfive)
   * #### [Day Twentysix](#Twentysix)
+  * #### [Day Twentyseven](#Twentyseven)
 
 
 ## <a id="One"></a>Day One ##
@@ -580,3 +581,21 @@ _Amen._
 
 Reading the entire chapter of 1 Timothy 6 reminds me of that wisdom that You never change. I don't fully understand the way this chapter is written — I struggle with it. I can see how people could twist these words and encourage very poor people to stay poor while rich people enjoy abundance. I struggle wondering why you would write this chapter in this way, which might cause people to stumble.
 But what I do know is that You never change. You are perfect. You are Love. The arc of Your story is not for us to horde what we have, but the contrary. Share generously is the theme. And for poor people, certainly, serve generously. Be careful with knowledge and love wisdom. 
+
+## <a id="Twentyseven"></a>Day Twentyseven ##
+
+> 1 John 2:3 - 5, 15 - 17, 28 - 29  CSB
+
+> 3This is how we know that we know him: if we keep his commands.The one who says, “I have come to know him,” and yet doesn’t keep his commands, is a liar, and the truth is not in him. 5But whoever keeps his word, truly in him the love of God is made complete. This is how we know we are in him:The one who says he remains in him should walk just as he walked. ... 15Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him. 16For everything in the world — the lust of the flesh, the lust of the eyes, and the pride in one’s possessions — is not from the Father, but is from the world. 17And the world with its lust is passing away, but the one who does the will of God remains forever. ... 28So now, little children, remain in him so that when he appears we may have confidence and not be ashamed before him at his coming.If you know that he is righteous, you know this as well: Everyone who does what is right has been born of him.
+
+### WWJD ###
+
+_Dear Lord — King of Kings._
+
+_You are the Alpha and the Omega. You never change._
+
+_Amen._
+
+Reading the entire chapter of 1 Timothy 6 reminds me of that wisdom that You never change. I don't fully understand the way this chapter is written — I struggle with it. I can see how people could twist these words and encourage very poor people to stay poor while rich people enjoy abundance. I struggle wondering why you would write this chapter in this way, which might cause people to stumble.
+But what I do know is that You never change. You are perfect. You are Love. The arc of Your story is not for us to horde what we have, but the contrary. Share generously is the theme. And for poor people, certainly, serve generously. Be careful with knowledge and love wisdom. 
+
