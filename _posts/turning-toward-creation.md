@@ -590,12 +590,11 @@ But what I do know is that You never change. You are perfect. You are Love. The 
 
 ### WWJD ###
 
-_Dear Lord — King of Kings._
+_Dear Lord — Prince of Peace, Wonderful Counselor._
 
-_You are the Alpha and the Omega. You never change._
+_Thank you for giving me the perfect role model._
 
 _Amen._
 
-Reading the entire chapter of 1 Timothy 6 reminds me of that wisdom that You never change. I don't fully understand the way this chapter is written — I struggle with it. I can see how people could twist these words and encourage very poor people to stay poor while rich people enjoy abundance. I struggle wondering why you would write this chapter in this way, which might cause people to stumble.
-But what I do know is that You never change. You are perfect. You are Love. The arc of Your story is not for us to horde what we have, but the contrary. Share generously is the theme. And for poor people, certainly, serve generously. Be careful with knowledge and love wisdom. 
+ Why did that saying WWJD get co-opted? It's literally all we need to do — especially when we are feeling lost. On those days where we aren't sure if we know God, when we aren't sure if we "love the world" when we aren't sure if we will be ashamed before God when we meet face-to-face. We have a perfect role model. No, we'll never be able to perfectly emmulate Jesus — but that is such a stumbling block. Whenever we are unsure, we know it is time to stop, read the Gospels a bit, and contemplate in all seriousness — what did Jesus do? What would Jesus do in this moment. And if, knowing the answer, we do not follow, we need to repent — literally turn back toward God — and keep going.
 
