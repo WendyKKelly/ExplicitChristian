@@ -35,6 +35,7 @@ ogImage:
  * #### [Day Twentythree](#Twentythree)
  * #### [Day Twentyfour](#Twentyfour)
  * #### [Day Twentyfive](#Twentyfive)
+  * #### [Day Twentysix](#Twentysix)
 
 
 ## <a id="One"></a>Day One ##
@@ -562,3 +563,20 @@ _Amen._
 
 Holding the idea that God is both the best parent that ever existed with the fact that He also created the universe is challenging.
 But then, leaning into that image of the most gentle and most powerful Creator, I can relax and simply do my one job of loving my neighbour. 
+
+## <a id="Twentysix"></a>Day Twentysix ##
+
+> 1 Timothy 6:20 - 21 CSB
+
+> 20Timothy, guard what has been entrusted to you, avoiding irreverent and empty speech and contradictions from what is falsely called knowledge. 21By professing it, some people have departed from the faith.
+
+### Knowledge ###
+
+_Dear Lord — King of Kings._
+
+_You are the Alpha and the Omega. You never change._
+
+_Amen._
+
+Reading the entire chapter of 1 Timothy 6 reminds me of that wisdom that You never change. I don't fully understand the way this chapter is written — I struggle with it. I can see how people could twist these words and encourage very poor people to stay poor while rich people enjoy abundance. I struggle wondering why you would write this chapter in this way, which might cause people to stumble.
+But what I do know is that You never change. You are perfect. You are Love. The arc of Your story is not for us to horde what we have, but the contrary. Share generously is the theme. And for poor people, certainly, serve generously. Be careful with knowledge and love wisdom. 
