@@ -37,6 +37,7 @@ ogImage:
  * #### [Day Twentyfive](#Twentyfive)
   * #### [Day Twentysix](#Twentysix)
   * #### [Day Twentyseven](#Twentyseven)
+  * #### [Day Twentyeight](#Twentyeight)
 
 
 ## <a id="One"></a>Day One ##
@@ -597,4 +598,20 @@ _Thank you for giving me the perfect role model._
 _Amen._
 
  Why did that saying WWJD get co-opted? It's literally all we need to do — especially when we are feeling lost. On those days where we aren't sure if we know God, when we aren't sure if we "love the world" when we aren't sure if we will be ashamed before God when we meet face-to-face. We have a perfect role model. No, we'll never be able to perfectly emmulate Jesus — but that is such a stumbling block. Whenever we are unsure, we know it is time to stop, read the Gospels a bit, and contemplate in all seriousness — what did Jesus do? What would Jesus do in this moment. And if, knowing the answer, we do not follow, we need to repent — literally turn back toward God — and keep going.
+ ## <a id="Twentyeight"></a>Day Twentyeight ##
 
+> Luke 6:43 - 45  CSB
+
+>43 “A good tree doesn’t produce bad fruit; on the other hand, a bad tree doesn’t produce good fruit. For each tree is known by its own fruit. Figs aren’t gathered from thornbushes, or grapes picked from a bramble bush. 45A good person produces good out of the good stored up in his heart. An evil person produces evil out of the evil stored up in his heart, for his mouth speaks from the overflow of the heart.
+
+### Fruit ###
+
+_Dear Lord — Abba._
+
+_Thank you for this warning. Remain in You. Remain in You and fruits of the spirit grow in our hearts and spill from our mouths._
+
+_Amen._
+
+ This morning feels tired and afraid. I suppose that feeling a farmer, or soldier, or athlete feels after a grueling stint.
+ I am most familiar with the athlete's heart — so that feeling, post euphoria, when your whole body is spent. Empty, like you have just poured everything out and have nothing left.
+ And so I meditate on these words now: I am a branch on a Vine and have perhaps just gone through that stage where all my resources were focused on producing a flower that will turn into a fruit. And I am exhausted. And I know that when I remain in God, remain in Jesus, rest in His word, the fruit will be good.
