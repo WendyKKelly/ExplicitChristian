@@ -38,6 +38,8 @@ ogImage:
   * #### [Day Twentysix](#Twentysix)
   * #### [Day Twentyseven](#Twentyseven)
   * #### [Day Twentyeight](#Twentyeight)
+  * #### [Day Twentynine](#Twentynine)
+  * #### [Day Thirty](#Thirty)
 
 
 ## <a id="One"></a>Day One ##
@@ -615,3 +617,39 @@ _Amen._
  This morning feels tired and afraid. I suppose that feeling a farmer, or soldier, or athlete feels after a grueling stint.
  I am most familiar with the athlete's heart — so that feeling, post euphoria, when your whole body is spent. Empty, like you have just poured everything out and have nothing left.
  And so I meditate on these words now: I am a branch on a Vine and have perhaps just gone through that stage where all my resources were focused on producing a flower that will turn into a fruit. And I am exhausted. And I know that when I remain in God, remain in Jesus, rest in His word, the fruit will be good.
+
+ ## <a id="Twentynine"></a>Day Twentynine ##
+
+> 1 John 3:18 - 24  CSB
+
+>18Little children, let us not love in word or speech, but in action and in truth.
+> 19This is how we will know that we belong to the truth and will reassure our hearts before him 20whenever our hearts condemn us; for God is greater than our hearts, and he knows all things.
+> 21Dear friends, if our hearts don’t condemn us, we have confidence before God 22and receive whatever we ask from him because we keep his commands and do what is pleasing in his sight. 23Now this is his command: that we believe in the name of his Son, Jesus Christ, and love one another as he commanded us. 24The one who keeps his commands remains in him, and he in him. And the way we know that he remains in us is from the Spirit he has given us.
+
+### You Are Greater Than Our Hearts ###
+
+_Dear Lord — Abba._
+
+_Action. You require us to love one another, not tell one another that we love them. Thank you for being stronger than my heart, for reminding me to love, not talk about love._
+
+_Amen._
+
+ The challenge of loving and remaining in truth is really enough to ask of us. It is our one commandment. It's enough. Remain in love. Remain in truth.
+
+## <a id="Thirty"></a>Day Thirty ##
+
+> James 1:2 - 8  CSB
+
+2Consider it a great joy, my brothers and sisters, whenever you experience various trials, 3because you know that the testing of your faith produces endurance. 4And let endurance have its full effect, so that you may be mature and complete, lacking nothing.
+5Now if any of you lacks wisdom, he should ask God — who gives to all generously and ungrudgingly — and it will be given to him. 6But let him ask in faith without doubting.1:6 Or without divided loyalties For the doubter is like the surging sea, driven and tossed by the wind. 7That person should not expect to receive anything from the Lord, 8being double-minded and unstable in all his ways.
+
+### You Fortify Us With Wisdom ###
+
+_Dear Lord — Abba, Wonderful Counselor._
+
+_Thank you for your unchanging, perfect, patient way. Thank you for your steady, unfailing strong and gentle light. Thank you for keeping your arms open for me to turn toward, even when I am so ashamed and weak that the idea of turning to you to ask for wisdom feels like the last thing I might be able to do. Thank you for being a God, an all-powerful God who is so gentle and patient that I can easily ask you for wisdom as I turn toward you (again)._
+
+_Amen._
+
+Today I was deeply struck by the quick reminder that we can ask our Abba in heaven for wisdom if we lack wisdom...if, perhaps, during a tribulation, we find ourselves utterly lost. Which, let's be honest, happens often with me :) And how often do I then flounder, feeling like I should be able to "figure things out" or know what to do? There is no shame - none - in asking Abba for wisdom - seeking Him first.
+
