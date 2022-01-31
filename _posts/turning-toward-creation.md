@@ -40,6 +40,7 @@ ogImage:
   * #### [Day Twentyeight](#Twentyeight)
   * #### [Day Twentynine](#Twentynine)
   * #### [Day Thirty](#Thirty)
+  * #### [Day Thirtyone](#Thirtyone)
 
 
 ## <a id="One"></a>Day One ##
@@ -652,4 +653,26 @@ _Thank you for your unchanging, perfect, patient way. Thank you for your steady,
 _Amen._
 
 Today I was deeply struck by the quick reminder that we can ask our Abba in heaven for wisdom if we lack wisdom...if, perhaps, during a tribulation, we find ourselves utterly lost. Which, let's be honest, happens often with me :) And how often do I then flounder, feeling like I should be able to "figure things out" or know what to do? There is no shame - none - in asking Abba for wisdom - seeking Him first.
+
+## <a id="Thirtyone"></a>Day Thirtyone ##
+
+> Malachi 3:7  CSB
+
+7“Since the days of your ancestors, you have turned from my statutes; you have not kept them. Return to me, and I will return to you,” says the Lord of Armies.
+Yet you ask, “How can we return?”
+
+### How Can We Return To You? ###
+
+_Dear Lord — Abba, Wonderful Counselor._
+
+_You clearly ask us to give one tenth of what we have to Your work, which you clearly define as the stuff that is not "of the world" We need to give to those who are fatherless (or maybe wew could say rootedless, without a loving and nurturing family structure) those who are widows (or, again, outside society's rootedness, structure, nurturing) the hired workers, the immigrants and refugees._
+
+_Thank you for your clarity._
+
+
+_Amen._
+
+This morning I have been struck by how very clear the Bible is sometimes :). During this devotional series, I have been reading the entire chapter that the verses I share and meditate on are in. Sometimes I go into Logos and clarify words or find the historical context a verse appears in. What I am noticing is that the Bible is both a deep book of Wisdom and also quite clear.
+We need to be giving a full tenth of what we have to those who are oppressed. We need to rely fully on God and not on any kind of sorcery or idolatry (literally, rely on God). We need to be true to our word. 
+Yes, that is really, really, really hard to do.
 
