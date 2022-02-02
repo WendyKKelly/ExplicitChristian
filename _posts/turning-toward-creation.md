@@ -41,6 +41,7 @@ ogImage:
   * #### [Day Twentynine](#Twentynine)
   * #### [Day Thirty](#Thirty)
   * #### [Day Thirtyone](#Thirtyone)
+  * #### [Day Thirtytwo](#Thirtytwo)
 
 
 ## <a id="One"></a>Day One ##
@@ -675,4 +676,39 @@ _Amen._
 This morning I have been struck by how very clear the Bible is sometimes :). During this devotional series, I have been reading the entire chapter that the verses I share and meditate on are in. Sometimes I go into Logos and clarify words or find the historical context a verse appears in. What I am noticing is that the Bible is both a deep book of Wisdom and also quite clear.
 We need to be giving a full tenth of what we have to those who are oppressed. We need to rely fully on God and not on any kind of sorcery or idolatry (literally, rely on God). We need to be true to our word. 
 Yes, that is really, really, really hard to do.
+
+
+## <a id="Thirtytwo"></a>Day Thirtytwo ##
+
+> Psalm 121  CSB
+
+
+> The Lord Our Protector
+> A song of ascents.
+> 1I lift my eyes toward the mountains.
+> Where will my help come from?
+> 2My help comes from the Lord,
+> the Maker of heaven and earth.
+> 3He will not allow your foot to slip;
+> your Protector will not slumber.
+> 4Indeed, the Protector of Israel
+> does not slumber or sleep.
+> 5The Lord protects you;
+> the Lord is a shelter right by your side.
+> 6The sun will not strike you by day
+> or the moon by night.
+> 7The Lord will protect you from all harm;
+> he will protect your life.
+> 8The Lord will protect your coming and going
+> both now and forever.
+
+### Lord Our Protector ###
+
+_Dear Lord — Abba, Prince of Peace._
+
+_Thank you for protecting us. Thank you for not allowing my foot to slip, thank you for not sleeping._
+
+_Amen._
+
+The very thought that God neither sleeps nor allows my foot to slip. That He protects us - all the time. I only want to get closer now - to better and more fully trust Him.
 
