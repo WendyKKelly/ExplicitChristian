@@ -712,3 +712,22 @@ _Amen._
 
 The very thought that God neither sleeps nor allows my foot to slip. That He protects us - all the time. I only want to get closer now - to better and more fully trust Him.
 
+## <a id="Thirtythree"></a>Day Thirtythree ##
+> 2 Corinthians7:24 CSB
+> 
+>  24I do not mean that we lord it over your faith, but we are workers with you for your joy, because you stand firm in your faith.
+
+### Free Will ###
+
+_Dear Lord — King of Kings, Prince of Peace._
+
+_Thank you for creating us, the universe, everything. And thank you for allowing us the opportuinity to grow our own faith, in partnership with our friends._
+
+_Thank you for staying by our side as we figure this out, in our own way, in our own time._
+
+_Amen._
+
+This morning my heart wants God to just tell me what to do! I read this chapter over and over again, looking up the Hebrew, reading different translations, confused. As I meditated on the words, my heart shifted. None of us is perfect, there is no one way to follow Christ faithfully. It's what makes our faith so beautiful and sometimes frustrating and confusing. That CS Lewis essay comes to mind: Where he goes to church and notices all sorts of people sitting among him — that odd grocer, etc.
+Let's be workers with eachother for their joy.
+
+
