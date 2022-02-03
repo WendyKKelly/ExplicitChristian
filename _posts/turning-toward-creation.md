@@ -730,4 +730,23 @@ _Amen._
 This morning my heart wants God to just tell me what to do! I read this chapter over and over again, looking up the Hebrew, reading different translations, confused. As I meditated on the words, my heart shifted. None of us is perfect, there is no one way to follow Christ faithfully. It's what makes our faith so beautiful and sometimes frustrating and confusing. That CS Lewis essay comes to mind: Where he goes to church and notices all sorts of people sitting among him — that odd grocer, etc.
 Let's be workers with eachother for their joy.
 
+## <a id="Thirtyfour"></a>Day Thirtyfour ##
+>Matthew 17:20 CSB
+
+> 20 “Because of your little faith,” he told them. “For truly I tell you, if you have faith the size of  a mustard seed, you will tell this mountain, ‘Move from here to there,’ and it will move. Nothing will be impossible for you.”
+
+
+### Faith First ###
+
+_Dear Lord — King of Kings, Prince of Peace._
+
+_Thank you for so patiently teaching us what we need in order to be fully mature Christians._
+
+_Amen._
+
+"The more conscious I am of the work God has yet to do in me, the less critical I am about what He has yet to do in you." — Andy Stanley My devotional this morning began with this quote.
+The more we turn toward you, the more we both realize what we need to do to grow and the less we need to micromanage those around us. We can joyfully partner with them but let go of the micromanaging.
+
+
+
 
