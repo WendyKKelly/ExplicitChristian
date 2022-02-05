@@ -42,9 +42,10 @@ ogImage:
   * #### [Day Thirty](#Thirty)
   * #### [Day Thirtyone](#Thirtyone)
   * #### [Day Thirtytwo](#Thirtytwo)
-  * #### [Day Thirtythree](#Thirty)
-  * #### [Day Thirtyfour](#Thirtyone)
-  * #### [Day Thirtyfive](#Thirtytwo)
+  * #### [Day Thirtythree](#Thirtythree)
+  * #### [Day Thirtyfour](#Thirtyfour)
+  * #### [Day Thirtyfive](#Thirtyfive)
+   * #### [Day Thirtysix](#Thirtysix)
 
 
 ## <a id="One"></a>Day One ##
@@ -767,5 +768,23 @@ _Amen._
 It's a thing I find really challenging sometimes: This idea that we have freedom in Christ and we need discipline.
 The analogy to running is so helpful for me at least because it's true: running is one of the freest feelings and also, in order to get to that freedom, you need to train hard and have quite a lot of self control and discipline.
 
+## <a id="Thirtysix"></a>Day Thirtysix ##
+>Proverbs 13:24 CSB
+
+>24The one who will not use the rod hates his son,
+> but the one who loves him disciplines him diligently.
+
+
+### Discipline ###
+
+_Dear Lord — Abba._
+
+_Thank you for forcing us to ponder your Word._
+
+_Amen._
+
+I am currently taking a course through Bible Classroom (part of the Bible Project). We are learning about the Hebrew Bible.
+I am enjoying the realization that I know next to nothing about ancient Hebrew, about the small minority group who wrote the Scripture, and next to nothing about the way the Scripture is woven together.
+This verse is one of many in Chapter 13 of Proverbs that needs pondering, careful thought, wisdom and understanding. Obviously, we can see so many examples of God loving us enough to discipline us. In fact, sometimes it's painful. But never violent. Never cruel. Never an actual rod hitting us. So it would be odd if He actually thinks that is what we ought to do with our own children. At the same time, using good boundaries, setting limits and within a deep relationship, caring enough to say, "Hey, you've gone to far. I think you can do better. It's time for you to come home now. I think you can study more...etc" Those are words that a caring parent cares enough to utter when needed. 
 
 
