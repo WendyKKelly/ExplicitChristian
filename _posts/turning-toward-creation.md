@@ -42,6 +42,9 @@ ogImage:
   * #### [Day Thirty](#Thirty)
   * #### [Day Thirtyone](#Thirtyone)
   * #### [Day Thirtytwo](#Thirtytwo)
+  * #### [Day Thirtythree](#Thirty)
+  * #### [Day Thirtyfour](#Thirtyone)
+  * #### [Day Thirtyfive](#Thirtytwo)
 
 
 ## <a id="One"></a>Day One ##
@@ -747,6 +750,22 @@ _Amen._
 "The more conscious I am of the work God has yet to do in me, the less critical I am about what He has yet to do in you." — Andy Stanley My devotional this morning began with this quote.
 The more we turn toward you, the more we both realize what we need to do to grow and the less we need to micromanage those around us. We can joyfully partner with them but let go of the micromanaging.
 
+## <a id="Thirtyfive"></a>Day Thirtyfive ##
+>1 Corinthians 9:24 - 26 CSB
+
+> 24Don’t you know that the runners in a stadium all race, but only one receives the prize? Run in such a way to win the prize. Now everyone who competes exercises self-control in everything. They do it to receive a perishable crown, but we an imperishable crown. 26So I do not run like one who runs aimlessly or box like one beating the air. 
+
+
+### Self Control for Freedom ###
+
+_Dear Lord — King of Kings, Wonderful Counselor._
+
+_Thank you for patiently giving us examples of how we can life free and disciplined._
+
+_Amen._
+
+It's a thing I find really challenging sometimes: This idea that we have freedom in Christ and we need discipline.
+The analogy to running is so helpful for me at least because it's true: running is one of the freest feelings and also, in order to get to that freedom, you need to train hard and have quite a lot of self control and discipline.
 
 
 
