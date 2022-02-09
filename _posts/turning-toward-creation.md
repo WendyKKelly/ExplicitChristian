@@ -45,7 +45,10 @@ ogImage:
   * #### [Day Thirtythree](#Thirtythree)
   * #### [Day Thirtyfour](#Thirtyfour)
   * #### [Day Thirtyfive](#Thirtyfive)
-   * #### [Day Thirtysix](#Thirtysix)
+  * #### [Day Thirtysix](#Thirtysix)
+  * #### [Day Thirtyfour](#Thirtyseven)
+  * #### [Day Thirtyfive](#Thirtyeight)
+  * #### [Day Thirtysix](#Thirtynine)
 
 
 ## <a id="One"></a>Day One ##
@@ -786,5 +789,60 @@ _Amen._
 I am currently taking a course through Bible Classroom (part of the Bible Project). We are learning about the Hebrew Bible.
 I am enjoying the realization that I know next to nothing about ancient Hebrew, about the small minority group who wrote the Scripture, and next to nothing about the way the Scripture is woven together.
 This verse is one of many in Chapter 13 of Proverbs that needs pondering, careful thought, wisdom and understanding. Obviously, we can see so many examples of God loving us enough to discipline us. In fact, sometimes it's painful. But never violent. Never cruel. Never an actual rod hitting us. So it would be odd if He actually thinks that is what we ought to do with our own children. At the same time, using good boundaries, setting limits and within a deep relationship, caring enough to say, "Hey, you've gone to far. I think you can do better. It's time for you to come home now. I think you can study more...etc" Those are words that a caring parent cares enough to utter when needed. 
+
+
+## <a id="Thirtyseven"></a>Day Thirtyseven ##
+>Genesis 1:9 - 13 CSB
+
+> 9Then God said, “Let the water under the sky be gathered into one place, and let the dry land appear.” And it was so. 10God called the dry land “earth,” and the gathering of the water he called “seas.” And God saw that it was good. 11Then God said, “Let the earth produce vegetation: seed-bearing plants and fruit trees on the earth bearing fruit with seed in it according to their kinds.” And it was so. 12The earth produced vegetation: seed-bearing plants according to their kinds and trees bearing fruit with seed in it according to their kinds. And God saw that it was good. 13Evening came and then morning: the third day.
+
+
+### And You Saw That It was "Tov" ###
+
+_Dear Lord — King of Kings, Creator._
+
+_You give us everything we need. Thank you for helping us to choose "Tov" — choose good._
+
+_Amen._
+
+I am taking a course with Bible.Classroom called "Intorduction to the Hebrew Bible". My heart is noticing, really noticing, how many opportunities we have to choose well — how good our Father God really is. Instead of, in an autoritarian way, simply telling us what to do each step of the way, we choose.
+And also, instead of a negligent parent, He gives us lots of opportunities to get very close to Him, know His heart, and make really excellent choices as we grow.
+
+## <a id="Thirtyeight"></a>Day Thirtyeight ##
+>Genesis 4:7 CSB
+
+> 7If you do what is right, won’t you be accepted? But if you do not do what is right, sin is crouching at the door. Its desire is for you, but you must rule over it.”
+
+
+### You Rule ###
+
+_Dear Lord — Abba._
+
+_Thank you for allowing us to rule over sin._
+
+_Amen._
+
+The chance to make our own choices is ultimate freedom. We have the choice to disobey God, to move closer to or away from God, to co-create our lives with God.
+These are set out as fundamental for a free life in The Dawn of Everything, the book I love by David Graeber and Wengrow.
+I notice that they are fundamental to our relationship with You.
+
+
+## <a id="Thirtynine"></a>Day Thirtynine ##
+> Hebrews 4:12 CSB
+> 
+> 12For the word of God is living and effective and sharper than any double-edged sword, penetrating as far as the separation of soul and spirit, joints and marrow. It is able to judge the thoughts and intentions of the heart.
+
+
+### Your Word is Alive and Effective ###
+
+_Dear Lord — Abba._
+
+_Thank you for asking us to work in order to know you better._
+
+_Amen._
+
+I can't help but be both grateful for the knowledge that God wants us to work at our relationship with Him, with His creation, with our fellow humans...
+And be a little tired sometimes at all this work.
+This prayer is my intention, my hope, my desire. To be thankful and cognizant of what a gift it is, actually, to know that God wants us in a real relationship with Him, His creation, fellow humans.
 
 
