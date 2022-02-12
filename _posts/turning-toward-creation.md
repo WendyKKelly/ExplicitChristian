@@ -46,9 +46,13 @@ ogImage:
   * #### [Day Thirtyfour](#Thirtyfour)
   * #### [Day Thirtyfive](#Thirtyfive)
   * #### [Day Thirtysix](#Thirtysix)
-  * #### [Day Thirtyfour](#Thirtyseven)
-  * #### [Day Thirtyfive](#Thirtyeight)
-  * #### [Day Thirtysix](#Thirtynine)
+  * #### [Day Thirtyseven](#Thirtyseven)
+  * #### [Day Thirtyeight](#Thirtyeight)
+  * #### [Day Thirtynine](#Thirtynine)
+  * #### [Day Forty](#Forty)
+  * #### [Day Fortyone](#Fortyone)
+  * #### [Day Fortytwo](#Fortytwo)
+  * #### [Day Fortythree](#Fortythree)
 
 
 ## <a id="One"></a>Day One ##
@@ -771,78 +775,78 @@ _Amen._
 It's a thing I find really challenging sometimes: This idea that we have freedom in Christ and we need discipline.
 The analogy to running is so helpful for me at least because it's true: running is one of the freest feelings and also, in order to get to that freedom, you need to train hard and have quite a lot of self control and discipline.
 
-## <a id="Thirtysix"></a>Day Thirtysix ##
->Proverbs 13:24 CSB
+## <a id="Forty"></a>Day Forty ##
+> Proverbs 16:9 CSB
+> 
+> A person’s heart plans his way, but the Lord determines his steps.
 
->24The one who will not use the rod hates his son,
-> but the one who loves him disciplines him diligently.
 
-
-### Discipline ###
+### Heart & Soul ###
 
 _Dear Lord — Abba._
 
-_Thank you for forcing us to ponder your Word._
+_Thank you for collaborating with us._
 
 _Amen._
 
-I am currently taking a course through Bible Classroom (part of the Bible Project). We are learning about the Hebrew Bible.
-I am enjoying the realization that I know next to nothing about ancient Hebrew, about the small minority group who wrote the Scripture, and next to nothing about the way the Scripture is woven together.
-This verse is one of many in Chapter 13 of Proverbs that needs pondering, careful thought, wisdom and understanding. Obviously, we can see so many examples of God loving us enough to discipline us. In fact, sometimes it's painful. But never violent. Never cruel. Never an actual rod hitting us. So it would be odd if He actually thinks that is what we ought to do with our own children. At the same time, using good boundaries, setting limits and within a deep relationship, caring enough to say, "Hey, you've gone to far. I think you can do better. It's time for you to come home now. I think you can study more...etc" Those are words that a caring parent cares enough to utter when needed. 
+I mean that — "Thank you for collaborating with us" but honestly, some days I feel so tired, weak, and helpless that I *wish* we had a God who would just tell us exactly what to do and how.
+The responsibility of being made in His image, of having a God that happily delegates to us, of needing to be in close relationship with Him sometimes feels like a burden...
+And then I remember Jesus. It's not easy, but the gift of having a God who cares enough to help us grow is overwhlemingly good. 
 
 
-## <a id="Thirtyseven"></a>Day Thirtyseven ##
->Genesis 1:9 - 13 CSB
+## <a id="Fortyone"></a>Day Fortyone ##
+>Proverbs 16:18 CSB
 
-> 9Then God said, “Let the water under the sky be gathered into one place, and let the dry land appear.” And it was so. 10God called the dry land “earth,” and the gathering of the water he called “seas.” And God saw that it was good. 11Then God said, “Let the earth produce vegetation: seed-bearing plants and fruit trees on the earth bearing fruit with seed in it according to their kinds.” And it was so. 12The earth produced vegetation: seed-bearing plants according to their kinds and trees bearing fruit with seed in it according to their kinds. And God saw that it was good. 13Evening came and then morning: the third day.
+> 18Pride comes before destruction,
+> and an arrogant spirit before a fall.
 
 
-### And You Saw That It was "Tov" ###
+### Pride goeth before the fall ###
 
 _Dear Lord — King of Kings, Creator._
 
-_You give us everything we need. Thank you for helping us to choose "Tov" — choose good._
+_You create the equation that leads to close relationship with you._
 
 _Amen._
 
-I am taking a course with Bible.Classroom called "Intorduction to the Hebrew Bible". My heart is noticing, really noticing, how many opportunities we have to choose well — how good our Father God really is. Instead of, in an autoritarian way, simply telling us what to do each step of the way, we choose.
-And also, instead of a negligent parent, He gives us lots of opportunities to get very close to Him, know His heart, and make really excellent choices as we grow.
+Honestly, It's not an easy equation to follow. As soon as I am successful, I can easily turn to pride. Too much pride, and "boom!" down I fall. Ouch.
+I get up, brush myself off, turn back to God — and begin again...
 
-## <a id="Thirtyeight"></a>Day Thirtyeight ##
->Genesis 4:7 CSB
-
-> 7If you do what is right, won’t you be accepted? But if you do not do what is right, sin is crouching at the door. Its desire is for you, but you must rule over it.”
-
-
-### You Rule ###
-
-_Dear Lord — Abba._
-
-_Thank you for allowing us to rule over sin._
-
-_Amen._
-
-The chance to make our own choices is ultimate freedom. We have the choice to disobey God, to move closer to or away from God, to co-create our lives with God.
-These are set out as fundamental for a free life in The Dawn of Everything, the book I love by David Graeber and Wengrow.
-I notice that they are fundamental to our relationship with You.
-
-
-## <a id="Thirtynine"></a>Day Thirtynine ##
-> Hebrews 4:12 CSB
+## <a id="Fortytwo"></a>Day Fortytwo ##
+> Matthew 5:10 CSB
 > 
-> 12For the word of God is living and effective and sharper than any double-edged sword, penetrating as far as the separation of soul and spirit, joints and marrow. It is able to judge the thoughts and intentions of the heart.
+> Blessed are those who are persecuted because of righteousness, for the kingdom of heaven is theirs.
 
 
-### Your Word is Alive and Effective ###
+### Persecution? ###
 
 _Dear Lord — Abba._
 
-_Thank you for asking us to work in order to know you better._
+_Thank you for providing us with all we need for a close relationship with you._
 
 _Amen._
 
-I can't help but be both grateful for the knowledge that God wants us to work at our relationship with Him, with His creation, with our fellow humans...
-And be a little tired sometimes at all this work.
-This prayer is my intention, my hope, my desire. To be thankful and cognizant of what a gift it is, actually, to know that God wants us in a real relationship with Him, His creation, fellow humans.
+I can't see verses like this without being reminded of the need for a close relationship with God. Yes, blessed are the persecuted...but no, being a martyr is not healthy. That balance, that edge, is defined in a healthy close relationship with God. We are loved, we are made in God's image. Jesus is a perfect template when we are confused about next steps to take.
+
+
+## <a id="Fortythree"></a>Day Fortythree ##
+> Isaiah25:4b CSB
+> 
+> As the shade of a cloud cools the heat of the day,
+> so he will silence the song of the violent.
+
+
+
+### Powerful but not Violent ###
+
+_Dear Lord — Abba._
+
+_Thank you for showing us perfect use of power without violence._
+
+_Amen._
+
+We just finished studying other near eastern ancient cosmologies (a really really quick overview) but what was really apparent was the power in our God without violence. 
+Certainly, this is a deep and perhaps controversial topic, but in my view, we have a God who shows us again and again how to be powerful without violence.
+
 
 
