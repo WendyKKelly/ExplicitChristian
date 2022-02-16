@@ -53,6 +53,10 @@ ogImage:
   * #### [Day Fortyone](#Fortyone)
   * #### [Day Fortytwo](#Fortytwo)
   * #### [Day Fortythree](#Fortythree)
+  * #### [Day Fortyfour](#Fortyfour)
+  * #### [Day Fortyfive](#Fortyfive)
+  * #### [Day Fortysix](#Fortysix)
+  * #### [Day Fortyseven](#Fortyseven)
 
 
 ## <a id="One"></a>Day One ##
@@ -848,5 +852,69 @@ _Amen._
 We just finished studying other near eastern ancient cosmologies (a really really quick overview) but what was really apparent was the power in our God without violence. 
 Certainly, this is a deep and perhaps controversial topic, but in my view, we have a God who shows us again and again how to be powerful without violence.
 
+## <a id="Fortyfour"></a>Day Fortyfour ##
+> James 1:2 - 4 CSB
+> 
+> 2Consider it a great joy, my brothers and sisters, whenever you experience various trials 3because you know that the testing of your faith produces endurance. 4And let endurance have its full effect, so that you may be mature and complete, lacking nothing.
 
+
+### Endurance ###
+
+_Dear Lord — Abba._
+
+_Thank you for caring enough to allow me to grow._
+
+_Amen._
+
+This is such a challenging one. I mean - in no way should we be false martyrs, with a kind of "woe is I" fasle modesty / false humilty. I guess the key word is "false" isn't it? We know, if we search our hearts, whether we are growing closer to you and your warmth, love, light and generosity. We know.
+
+
+## <a id="Fortyfive"></a>Day Fortyfive ##
+> 1 Corinthians 13:4 CSB
+> 
+> Love is patient, love is kind. Love does not envy, is not boastful, is not arrogant,
+
+
+###You are Love ###
+
+_Dear Lord — Abba, Creator._
+
+_You are patient, kind, not envious, not boastful, not arrogant._
+
+_Amen._
+
+Our God is literally Love. 
+
+## <a id="Fortysix"></a>Day Fortysix ##
+
+> Romans 12:12 CSB
+> 
+> Rejoice in hope; be patient in affliction; be persistent in prayer.
+
+
+### Persecution? ###
+
+_Dear Lord — Prince of Peace._
+
+_Thank you for giving us the steps to take._
+
+_Amen._
+
+Sometimes it can be so challenging to know what steps to take. 
+And then, well, I mean her we go — we have exactly the steps to take. 
+
+## <a id="Fortyseven"></a>Day Fortyseven ##
+> Matthew 3:16 - 17 CSB
+> 
+> 16When Jesus was baptized, he went up immediately from the water. The heavens suddenly opened for him,3:16 Other mss omit for him and he saw the Spirit of God descending like a dove and coming down on him.And a voice from heaven said, “This is my beloved Son, with whom I am well-pleased.”
+
+### Overwhelming Love ###
+
+_Dear Lord — Abba._
+
+_Thank you. Just thank you for creating us in your image, for wanting to partner with us, collaborate with us. Thank you for providing us with all we need to rise up to the level of responsibility and obligation that you require from us._
+
+_Amen._
+
+Wow. I have been sitting all day today in the awareness that God is love, God created us in His image, and God wants to partner with us to create a world where heaven and earth unite. The responsibility this requires feels a bit overwhelming. And yet, full circle: We have God, literally GOD by our side, gently whispering encouragement in our ears. We can do this.
 
