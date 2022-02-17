@@ -57,6 +57,7 @@ ogImage:
   * #### [Day Fortyfive](#Fortyfive)
   * #### [Day Fortysix](#Fortysix)
   * #### [Day Fortyseven](#Fortyseven)
+  * #### [Day Fortyeight](#Fortyeight)
 
 
 ## <a id="One"></a>Day One ##
@@ -917,4 +918,32 @@ _Thank you. Just thank you for creating us in your image, for wanting to partner
 _Amen._
 
 Wow. I have been sitting all day today in the awareness that God is love, God created us in His image, and God wants to partner with us to create a world where heaven and earth unite. The responsibility this requires feels a bit overwhelming. And yet, full circle: We have God, literally GOD by our side, gently whispering encouragement in our ears. We can do this.
+
+## <a id="Fortyeight"></a>Day Fortyeight ##
+> Daniel 7:13 - 14 CSB
+
+> 13I continued watching in the night visions,
+> and suddenly one like a son of man
+> was coming with the clouds of heaven.
+> He approached the Ancient of Days
+> and was escorted before him.
+> 14He was given dominion
+> and glory and a kingdom,
+> so that those of every people,
+> nation, and language
+> should serve him.
+> His dominion is an everlasting dominion
+> that will not pass away,
+> and his kingdom is one
+> that will not be destroyed.
+
+### What Power Looks Like ###
+
+_Dear Lord — Prince of Peace._
+
+_Thank you. Thank you for giving us visions, messengers, and so many reasons to believe._
+
+_Amen._
+
+Daniel chapter 7 is a weird chapter. But in context, and seen through the lens of ancient Hebrew literature, it's gorgeous. Jesus came, He has dominion, we should serve him. It's a kind of service that brings joy and freedom. Beauty out of chaos. 
 
