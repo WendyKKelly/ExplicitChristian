@@ -58,6 +58,11 @@ ogImage:
   * #### [Day Fortysix](#Fortysix)
   * #### [Day Fortyseven](#Fortyseven)
   * #### [Day Fortyeight](#Fortyeight)
+  * #### [Day Fortynine](#Fortynine)
+  * #### [Day Fifty](#Fifty)
+  * #### [Day Fiftyone](#Fiftyone)
+  * #### [Day Fiftytwo](#Fiftytwo)
+  * #### [Day Fiftythree](#Fiftythree)
 
 
 ## <a id="One"></a>Day One ##
@@ -947,3 +952,91 @@ _Amen._
 
 Daniel chapter 7 is a weird chapter. But in context, and seen through the lens of ancient Hebrew literature, it's gorgeous. Jesus came, He has dominion, we should serve him. It's a kind of service that brings joy and freedom. Beauty out of chaos. 
 
+## <a id="Fortynine"></a>Day Fortynine ##
+> Psalms 46:10 CSB
+> 
+> “Stop fighting, and know that I am God, exalted among the nations, exalted on the earth.”
+
+
+### Endurance ###
+
+_Dear Lord — Abba._
+
+_Thank you for remaining. You are our refuge and our strength. You break the bow and shatter the spear. You burn the shields with fire._
+
+_Amen._
+
+How clear is this? God will be exalted among the nations. God will be exalted in the earth. Stop fighting and know God. 
+
+
+## <a id="Fifty"></a>Day Fifty ##
+> 1 Samuel 10:9 - 16 CSB
+> 
+> 9When Saul turned to leave Samuel, God turned to him another heart and all the signs came about that day. 10When Saul and his servant arrived at Gibeah, a group of prophets met him. Then the Spirit of God came powerfully on him, and he prophesied along with them.
+> 11Everyone who knew him previously and saw him prophesy with the prophets asked each other, “What has happened to the son of Kish? Is Saul also among the prophets?” 
+> 12Then a man who was from there asked, “And who is their father?” 
+> As a result, “Is Saul also among the prophets?” became a popular saying. 13Then Saul finished prophesying and went to the high place.
+> 14Saul’s uncle asked him and his servant, “Where did you go?”
+> “To look for the donkeys,” Saul answered. “When we saw they weren’t there, we went to Samuel.”
+> 15“Tell me,” Saul’s uncle asked, “what did Samuel say to you?”
+> 16Saul told him, “He assured us the donkeys had been found.” However, Saul did not tell him what Samuel had said about the matter of kingship.
+
+
+###You Change Us ###
+
+_Dear Lord — Abba, Creator._
+
+_You change our hearts and we still cannot believe._
+
+_Amen._
+
+This chapter in 1 Samuel has been on my heart. There is, like a lot of Bible readings, both a chance for great hope and a lot of despair or sadness.
+Saul's heart was changed by God. People thought he had become a prophet. And still, still, when Saul's uncle asked him what had happened, he said nothing about the kingship. I wonder, had he been able to be the confident king that God perhaps hoped for, the kind of king that would be deeply humble to God but also rise to the blessing and lead his people to God...I wonder. 
+
+## <a id="Fiftyone"></a>Day Fiftyone ##
+
+> Hebrews 12:14 CSB
+> 
+> Make every effort to live in peace with everyone and to be holy; without holiness no one will see the Lord.
+
+
+### Be Holy ###
+
+_Dear Lord — Prince of Peace._
+
+_Thank you for reminding us, exhorting us, to live in peace with everyone._
+
+_Amen._
+
+Living in peace with everyone requires peacemaking, which requires God.
+
+## <a id="Fiftytwo"></a>Day Fiftytwo ##
+> John 14:26 CSB
+> 
+> But the Advocate, the Holy Spirit, whom the Father will send in my name, will teach you all things and will remind you of everything I have said to you.
+
+### You Will Teach Us ###
+
+_Dear Lord — Abba._
+
+_Thank you. Thank you for teaching us through your holy spirit._
+
+_Amen._
+
+God will teach us and then remind us when we forget. I need to know this.
+
+## <a id="Fiftythree"></a>Day Fiftythree ##
+> Luke 16:13 - 15 CSB
+> 
+> 13 “No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money.”
+> 14The Pharisees, who loved money, heard all this and were sneering at Jesus. 15He said to them, “You are the ones who justify yourselves in the eyes of others, but God knows your hearts. What people value highly is detestable in God’s sight.
+
+### What God Loves ###
+
+_Dear Lord — King of Kings._
+
+_Thank you for reminding me what you love...and what you do not love._
+
+_Amen._
+
+God knows our hearts.
