@@ -65,6 +65,7 @@ ogImage:
   * #### [Day Fiftythree](#Fiftythree)
   * #### [Day Fiftyfour](#Fiftyfour)
   * #### [Day Fiftyfive](#Fiftyfive)
+  * #### [Day Fiftysix](#Fiftysix)
 
 
 ## <a id="One"></a>Day One ##
@@ -1060,7 +1061,7 @@ I will cast all my cares on him because he cares about me. I will be alert and s
 ## <a id="Fiftyfive"></a>Day Fiftyfive ##
 > 1 Peter 5:10 - 11 CSB
 > 
-10The God of all grace, who called you to his eternal glory in Christ, will himself restore, establish, strengthen, and support you after you have suffered a little while. 11To him be dominion forever. Amen.
+> 10The God of all grace, who called you to his eternal glory in Christ, will himself restore, establish, strengthen, and support you after you have suffered a little while. 11To him be dominion forever. Amen.
 
 ### You Will Restore ###
 
@@ -1071,3 +1072,31 @@ _Thank you for restoring, establishing, strengthening, and supporting me._
 _Amen._
 
 I love knowing that we all suffer a little — and that God restores, establishes, strengthens, and supports us.
+
+## <a id="Fiftysix"></a>Day Fiftysix ##
+
+> Genesis 3:10 - 12  Dr. Tim Mackie's translation from The Bible Classroom
+> 
+> 9And Yahweh said to Cain,
+> “Where is Abel your brother?”
+> And he said,
+> “I do not know. Am I the keeper of my brother?”
+> 10And he said,
+> “What have you done?
+> The voice of the shed-blood of your brother
+> is crying out to me from the ground.
+> 11And now, you are cursed from the ground,
+> which has opened its mouth to receive the shed-blood of your brother from your hand.
+> 12When you work the ground,
+> it will no longer yield its strength to you;
+> you will be a vagrant and a wanderer in the land.”
+
+### You Love Us ###
+
+_Dear Lord — Abba._
+
+_Thank you forloving us. So much that we know that you never abandon us, never loose hope in us._
+
+_Amen._
+
+Reading through God's response to Cain is such an excellent lesson in powerful love. God doesn't carelessly let Cain off the hook - nor does he rage at Cain, punishing him violently. He stays with Cain, allows Cain the chance to stand upright and confess. He still stays with Cain when Cain doesn't do that, and tells him, stright, what he has done and what the consequence will be. But never does God "lose it" or walk away. Honestly, this has me enthralled. This is our God.
