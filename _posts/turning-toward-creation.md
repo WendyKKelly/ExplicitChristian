@@ -63,6 +63,8 @@ ogImage:
   * #### [Day Fiftyone](#Fiftyone)
   * #### [Day Fiftytwo](#Fiftytwo)
   * #### [Day Fiftythree](#Fiftythree)
+  * #### [Day Fiftyfour](#Fiftyfour)
+  * #### [Day Fiftyfive](#Fiftyfive)
 
 
 ## <a id="One"></a>Day One ##
@@ -1040,3 +1042,32 @@ _Thank you for reminding me what you love...and what you do not love._
 _Amen._
 
 God knows our hearts.
+## <a id="Fiftyfour"></a>Day Fiftyfour ##
+> 1 Peter 5:6 - 9 CSB
+
+> 6Humble yourselves, therefore, under the mighty hand of God, so that he may exalt you at the proper time, 7casting all your cares on him, because he cares about you. 8Be sober-minded, be alert. Your adversary the devil is prowling around like a roaring lion, looking for anyone he can devour. 9Resist him, firm in the faith, knowing that the same kind of sufferings are being experienced by your fellow believers throughout the world.
+
+### Your Mighty Hand ###
+
+_Dear Lord — Abba._
+
+_Thank you for your mighty hand, under which I can humble myself._
+
+_Amen._
+
+I will cast all my cares on him because he cares about me. I will be alert and sober-minded so I can resist that lion of an adversary.
+
+## <a id="Fiftyfive"></a>Day Fiftyfive ##
+> 1 Peter 5:10 - 11 CSB
+> 
+10The God of all grace, who called you to his eternal glory in Christ, will himself restore, establish, strengthen, and support you after you have suffered a little while. 11To him be dominion forever. Amen.
+
+### You Will Restore ###
+
+_Dear Lord — King of Kings._
+
+_Thank you for restoring, establishing, strengthening, and supporting me._
+
+_Amen._
+
+I love knowing that we all suffer a little — and that God restores, establishes, strengthens, and supports us.
