@@ -63,7 +63,7 @@ Thinking this over, I marvel at how we sometimes gloss over the relational lesso
 
 When Cain is upset because God didn't regard his offering, God stays level headed and wise, reminding Cain that there will be more times to present offerings to God, and there will be every opportunity to give God an offering that is "tov" in God's eyes. He then also counsels Cain, reminding him to stay alert to sin, which crouches at the door, waiting. This is a lovely example of the constant teaching and staying with us that is God's character.
 
-And when Cain does kill his borther, here too, God seeks Cain out, not in a rage, but in that same quiet, powerfully calm way: "Where is Abel your brother?" (Gen 3:9)
+And when Cain does kill his brother, here too, God seeks Cain out, not in a rage, but in that same quiet, powerfully calm way: "Where is Abel your brother?" (Gen 3:9)
 
 God does not back away from relationship, even when it might seem unbearable. He stays with Cain even as Cain replies in what honestly sounds like an incredibly immature response: "I do not know. Am I the keeper of my brother?"
 
@@ -80,6 +80,22 @@ it will no longer yield its strength to you;
 you will be a vagrant and a wanderer in the land." (Gen 3:10 - 12)
 
 Still, he protects Cain, and allows Cain to live out his life. There is always a chance for redemption, always an open door.
+
+It's this response: Not backing down from talking about the hard stuff — holding us accountable for when we are divisive — in Cain's case, actual murder — any time we work to divide humanity, or our human-divine partnership.
+
+And oh can I see how culpable I am here.
+
+## It's Not All About Me...But
+
+Ha. I think during past attempts to grapple with the Hebrew Bible, I have been so pulled by what I now regard as "red herrings" — the murder, for example — that I failed to sometimes see the obvious lessons. 
+
+In Genesis 2 - 5, it seems to me that what is important is that we, the humans created in the image of God, have been gifted with the responsibility and opportunity to co-create beauty out of chaos with God. 
+
+And we keep falling short.
+
+And God powerfully stays with us. The loving, gentle, grace-filled way that God asks after us, stays with us when we want to run and hide, shines light on where we can improve and never gives up on us — no wonder in those rare moments when I do feel some union with God it's always with a sense of awe. Wanting to lower my eyes.
+
+
 
 
 

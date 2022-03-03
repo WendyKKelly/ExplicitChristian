@@ -1100,3 +1100,104 @@ _Thank you forloving us. So much that we know that you never abandon us, never l
 _Amen._
 
 Reading through God's response to Cain is such an excellent lesson in powerful love. God doesn't carelessly let Cain off the hook - nor does he rage at Cain, punishing him violently. He stays with Cain, allows Cain the chance to stand upright and confess. He still stays with Cain when Cain doesn't do that, and tells him, stright, what he has done and what the consequence will be. But never does God "lose it" or walk away. Honestly, this has me enthralled. This is our God.
+
+## <a id="Fiftyseven"></a>Day Fiftyseven ##
+> Job 1:6 - 11 CSB
+> 
+> 6One day the sons of God came to present themselves before the Lord, and Satan also came with them. 7The Lord asked Satan, “Where have you come from?”
+> “From roaming through the earth,” Satan answered him, “and walking around on it.”
+> 8Then the Lord said to Satan, “Have you considered my servant Job? No one else on earth is like him, a man of perfect integrity, who fears God and turns away from evil.”
+> 9Satan answered the Lord, “Does Job fear God for nothing? 10Haven’t you placed a hedge around him, his household, and everything he owns? You have blessed the work of his hands, and his possessions have increased in the land. 11But stretch out your hand and strike everything he owns, and he will surely curse you to your face.”
+
+
+### Suffering ###
+
+_Dear Lord — Creator of the Universe._
+
+_Thank you for your wisdom books and thank you for allowing us a glimpse at your wisdom._
+
+_Amen._
+
+Job, Ecclesiastes, and Proverbs confound me. Of all of them, Job has always been a favorite. I love reading about Job's faith — it's not blind, it's not calm. I have always been drawn to how Job relates to God — he calls out, he laments, he ultimately asks God to come down and explain himself...which God does. 
+And although the explanation God gives is obscure — this happened because...you can't understand? It's in a way satsifying. We really do not know the entire workings of creation. We do not know everything and so our ultimate faith in God should not be based on "good days" or "bad days" .
+
+## <a id="Fiftyeight"></a>Day Fiftyeight ##
+> Matthew 17:17 — 21 CSB
+> 
+> 17Jesus replied, “You unbelieving and perverse generation, how long will I be with you? How long must I put up with you? Bring him here to me.” 18Then Jesus rebuked the demon, and it came out of him, and from that moment the boy was healed.
+> 19Then the disciples approached Jesus privately and said, “Why couldn’t we drive it out?”
+> 20 “Because of your little faith,” Jesus told them. “For truly I tell you, if you have faith the size of a mustard seed, you will tell this mountain, ‘Move from here to there,’ and it will move. Nothing will be impossible for you.” 21 “However, this kind does not come out except by prayer and fasting.”
+
+### Faith, Prayer, Fasting ###
+
+_Dear Lord — Abba._
+
+_Thank you for giving us our marching orders._
+
+_Amen._
+
+We know what we need to do. God is explicit.
+
+## <a id="Fiftynine"></a>Day Fiftynine ##
+> John 8:6 — 11 CSB
+> 
+> Jesus stooped down and started writing on the ground with his finger. 7When they persisted in questioning him, he stood up and said to them, “The one without sin among you should be the first to throw a stone at her.” 8Then he stooped down again and continued writing on the ground. 9When they heard this, they left one by one, starting with the older men. Only he was left, with the woman in the center. 10When Jesus stood up, he said to her, “Woman, where are they? Has no one condemned you?”
+> 11“No one, Lord,” she answered.
+> “Neither do I condemn you,” said Jesus. “Go, and from now on do not sin anymore.”
+
+### Without Sin ###
+
+_Dear Lord — King of Kings._
+
+_Thank you reminding us that in you we walk in the light — which means that we see clearly and that all our sin is exposed._
+
+_Amen._
+
+This chapter in John fills me with awe — we have this opportunity to continue in Jesus' word and when we do, we might walk in the light, and be free. Free to perhaps have the insight to see sin before we fall for it? Reflecting this morning, I read "light" in the sense that it illuminates our shadows for us so that we might do the right thing with clarity.
+
+## <a id="Sixty"></a>Day Sixty ##
+> John 13:12 — 16 CSB
+
+> 12When Jesus had washed their feet and put on his outer clothing, he reclined again and said to them, “Do you know what I have done for you? 13You call me Teacher and Lord — and you are speaking rightly, since that is what I am. 14So if I, your Lord and Teacher, have washed your feet, you also ought to wash one another’s feet. 15For I have given you an example, that you also should do just as I have done for you.
+> 16 “Truly I tell you, a servant is not greater than his master,  and a messenger is not greater than the one who sent him. 17If you know these things, you are blessed if you do them.
+
+### What Love Looks Like ###
+
+_Dear Lord — Abba._
+
+_Thank you for showing us clearly what love looks like._
+
+_Amen._
+
+Later in this chapter, Jesus tells his disciples that they will be known by their love. I think this example clearly shows us an example of what love looks like.
+
+## <a id="Sixtyone"></a>Day Sixtyone ##
+> Phillipians 1:27 - 28 CSB
+> 
+> 27Just one thing: As citizens of heaven, live your life worthy of the gospel of Christ. Then, whether I come and see you or am absent, I will hear about you that you are standing firm in one spirit, in one accord, contending together for the faith of the gospel, 28not being frightened in any way by your opponents.
+
+### Live in One Spirit ###
+
+_Dear Lord — Prince of Peace._
+
+_Thank you for reminding us to live as one._
+
+_Amen._
+
+This first chapter of Phillipians is challenging — why Paul says certain things I feel like I need to understand more deeply. But this conclusion is solid: live as one. One soul, one spirit, one accord.
+
+## <a id="Sixtytwo"></a>Day Sixtytwo ##
+
+> Acts 3:17 — 19 CSB
+> 
+> 17“And now, brothers and sisters, I know that you acted in ignorance, just as your leaders also did. 18In this way God fulfilled what he had predicted through all the prophets — that his Messiah would suffer. 19Therefore repent and turn back, so that your sins may be wiped out,
+
+### We Repent, We Turn Toward You ###
+
+_Dear Lord — Abba._
+
+_Thank you for giving us the opportunity to stay in relationship with you, turn toward you._
+
+_Amen._
+
+Reading through Peter and John's account of helping a man walk again, and then their reminding everyone to turn toward God, has me remembering that we have a God who has His arms outstretched to us continuously — imagine that. 
