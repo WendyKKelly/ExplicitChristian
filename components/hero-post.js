@@ -16,13 +16,15 @@ export default function HeroPost({
   return (
     <section>
       <div className="grid-cols-2 mb-8 md:mb-16">
+        <div>
         <CoverImage
           title={title}
           src={coverImage}
           slug={slug}
           height={620}
-          width={620}
+          width={1240}
         />
+        </div>
         <div>
           <h3 className="mb-4 text-4xl lg:text-6xl leading-tight">
             <Link as={`/posts/${slug}`} href="/posts/[slug]">
