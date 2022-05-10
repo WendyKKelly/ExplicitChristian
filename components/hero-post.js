@@ -21,7 +21,7 @@ export default function HeroPost({
           src={coverImage}
           slug={slug}
           height={620}
-          width={1240}
+          width={620}
         />
         <div>
           <h3 className="mb-4 text-4xl lg:text-6xl leading-tight">
