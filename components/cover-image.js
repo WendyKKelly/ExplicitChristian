@@ -3,11 +3,11 @@ import cn from 'classnames'
 import Link from 'next/link'
 import Image from 'next/image'
 
-export default function CoverImage({ title, topic, src, slug, height, width }) {
+export default function CoverImage({ title, src, topic, slug, height, width }) {
   const image = (
     <Image
       src={src}
-      alt={`Cover Image for ${title}`}
+      alt={`Cover Image for ${title} ${topic}`}
       className={cn('shadow-sm', {
         'hover:shadow-md transition-shadow duration-200': slug,
       })}
@@ -20,7 +20,7 @@ export default function CoverImage({ title, topic, src, slug, height, width }) {
     <div className="sm:mx-0">
       {slug ? (
         <Link as={`/posts/${slug}`} href="/posts/[slug]">
-          <a aria-label={topic}>{image}</a>
+          <a aria-label={title}>{image}</a>
         </Link>
       ) : (
         image
