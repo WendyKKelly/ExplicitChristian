@@ -41,7 +41,7 @@ export default function HeroPost({
         <div>
           <h3 className="mb-4 text-4xl lg:text-6xl leading-tight">
             <Link as={`/posts/${slug}`} href="/posts/[slug]">
-              <a className="hover:bg-yellow">{topic}</a>
+              <a className="hover:bg-yellow">{title}</a>
             </Link>
           </h3>
           <div className="mb-4 md:mb-0 text-lg">
@@ -49,7 +49,7 @@ export default function HeroPost({
           </div>
         </div>
         <div>
-          <p className="text-lg leading-relaxed mb-4">{topic}</p>
+          <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
           <Avatar name={author.name} picture={author.picture} />
         </div>
       </div>

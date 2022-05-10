@@ -18,7 +18,6 @@ export default function PostPreview({
         <CoverImage
           slug={slug}
           title={title}
-          topic={topic}
           src={coverImage}
           height={278}
           width={556}
@@ -32,7 +31,7 @@ export default function PostPreview({
       <div className="text-lg mb-4">
         <DateFormatter dateString={date} />
       </div>
-      <p className="text-lg leading-relaxed mb-4">{topic}</p>
+      <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
       <Avatar name={author.name} picture={author.picture} />
     </div>
   )
