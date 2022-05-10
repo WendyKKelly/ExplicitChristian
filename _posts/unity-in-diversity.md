@@ -1,5 +1,6 @@
 ---
 title: "Unity in Diversity"
+topic: 'explicit'
 excerpt: "Epshesians Final Project."
 coverImage: "/assets/blog/unity-in-diversity/cover.jpg"
 date: "2022-01-20T05:35:07.322Z"

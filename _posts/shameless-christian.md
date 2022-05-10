@@ -1,5 +1,6 @@
 ---
 title: 'Shameless Christian'
+topic: 'explicit'
 excerpt: 'I actually felt a bit hawkish finding the blemish in the perfect family.'
 coverImage: '/assets/blog/shameless/cover.jpg'
 date: '2021-07-01T05:35:07.322Z'

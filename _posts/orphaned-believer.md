@@ -1,5 +1,6 @@
 ---
 title: 'Orphaned Believer'
+topic: 'explicit'
 excerpt: 'Sara Billups calls us to Reclaim the Word Christian. I agree.' 
 coverImage: '/assets/blog/orphaned-believer/cover.jpg'
 date: '2022-01-01T05:35:07.322Z'

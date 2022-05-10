@@ -1,5 +1,6 @@
 ---
 title: 'Rick Warren Lost His Son and I Judged Him'
+topic: 'explicit'
 excerpt: 'I actually felt a bit hawkish finding the blemish in the perfect family.'
 coverImage: '/assets/blog/no-fault/cover.jpg'
 date: '2021-05-24T05:35:07.322Z'

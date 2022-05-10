@@ -1,5 +1,6 @@
 ---
 title: 'Choose Life'
+topic: 'life'
 excerpt: 'So this morning, Mothers Day, I contemplated how much a choice life is.' 
 coverImage: '/assets/blog/choose-life/cover.jpg'
 date: '2021-05-07T05:35:07.322Z'

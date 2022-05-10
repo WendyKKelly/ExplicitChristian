@@ -1,5 +1,6 @@
 ---
 title: 'Ricky Gervais Is Awfully Christian'
+topic: 'explicit'
 excerpt: 'It occurred to me, again, that Ricky Gervais is one of those atheists I would most like to share a beer with.'
 coverImage: '/assets/blog/gervais-christian/cover.jpg'
 date: '2021-05-24T05:35:07.322Z'
