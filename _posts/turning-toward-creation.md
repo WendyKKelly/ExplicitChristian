@@ -66,6 +66,14 @@ ogImage:
   * #### [Day Fiftyfour](#Fiftyfour)
   * #### [Day Fiftyfive](#Fiftyfive)
   * #### [Day Fiftysix](#Fiftysix)
+   * #### [Day Fiftyseven](#Fiftyseven)
+  * #### [Day Fiftyeight](#Fiftyeight)
+  * #### [Day Fiftynine](#Fiftynine)
+  * #### [Day Sixty](#Sixty)
+  * #### [Day Sixtyone](#Sixtyone)
+  * #### [Day Sixtytwo](#Sixtytwo)
+  * #### [Day Sixtythree](#Sixtythree)
+  
 
 
 ## <a id="One"></a>Day One ##
@@ -1201,3 +1209,21 @@ _Thank you for giving us the opportunity to stay in relationship with you, turn 
 _Amen._
 
 Reading through Peter and John's account of helping a man walk again, and then their reminding everyone to turn toward God, has me remembering that we have a God who has His arms outstretched to us continuously — imagine that. 
+
+## <a id="Sixtythree"></a>Day Sixtythree ##
+
+> Exodus 34:5 — 7 CSB
+> 
+> 5The Lord came down in a cloud, stood with him there, and proclaimed his name, “the Lord.” 6The Lord passed in front of him and proclaimed:
+> The Lord  — the Lord is a compassionate and gracious God, slow to anger and abounding in faithful love and truth, 7maintaining faithful love to a thousand generations, forgiving iniquity, rebellion, and sin. But he will not leave the guilty unpunished, bringing the consequences of the fathers’ iniquity on the children and grandchildren to the third and fourth generation.
+
+### Who is Our God? ###
+
+_Dear Lord — Abba._
+
+_ Even in seasons where I find knowing you to be challenging, you tell me who you are and you are so, so clear. Thank you. I am so grateful that you put it on people's hearts to learn about you._
+
+_Amen._
+
+My life took quite a turn. I needed to pause my daily devotion and quickly had such gratitude for the decision I made to simply number my entries, not date them :)
+In the interim, I have taken several courses through the BibleProject Classroom, including many where I have learned who Yahweh says He is. Not in a way that is prescriptive, but rather in a way that has allowed me to contemplate this God we believe in. I am very grateful. Life throws us curveballs, but God is steady throughout. Stay faithful. 
