@@ -1,7 +1,7 @@
 ---
 title: "Toxic Compassion"
-topic: "toxicity"
 excerpt: "As soon as I finished, I knew that I needed to write about it in a Christian context."
+topic: "toxicity"
 coverImage: "/assets/blog/toxic-compassion/cover.jpg"
 date: "2022-01-20T05:35:07.322Z"
 author:
