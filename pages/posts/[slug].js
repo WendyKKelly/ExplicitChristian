@@ -33,6 +33,7 @@ export default function Post({ post, morePosts, preview }) {
               </Head>
               <PostHeader
                 title={post.title}
+                topic={post.topic}
                 coverImage={post.coverImage}
                 date={post.date}
                 author={post.author}
@@ -49,6 +50,7 @@ export default function Post({ post, morePosts, preview }) {
 export async function getStaticProps({ params }) {
   const post = getPostBySlug(params.slug, [
     'title',
+    'topic',
     'date',
     'slug',
     'author',
