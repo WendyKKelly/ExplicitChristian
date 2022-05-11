@@ -23,3 +23,14 @@ export default function Category({ posts }) {
     </section>
   )
 }
+//
+<div>
+          <h3 className="mb-4 text-4xl lg:text-6xl leading-tight">
+            <Link as={`/posts/${slug}`} href="/posts/[slug]">
+              <a className="hover:bg-yellow"> 
+          <Category
+          />
+        </a>
+            </Link>
+          </h3>
+          </div>
