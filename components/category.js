@@ -1,4 +1,4 @@
-import CategoryPreview from '../components/post-preview'
+import CategoryPreview from '../components/category-preview'
 
 export default function Category({ posts }) {
   return (
