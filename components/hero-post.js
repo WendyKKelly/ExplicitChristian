@@ -1,6 +1,7 @@
 import Avatar from '../components/avatar'
 import DateFormatter from '../components/date-formatter'
 import CoverImage from '../components/cover-image'
+import Category from '../components/category/'
 import Link from 'next/link'
 import React, { useEffect, useRef } from 'react';
 
@@ -29,12 +30,13 @@ export default function HeroPost({
         <div>
           <h3 className="mb-4 text-4xl lg:text-6xl leading-tight">
             <Link as={`/posts/${slug}`} href="/posts/[slug]">
-              <a className="hover:bg-yellow">{topic}</a>
+              <a className="hover:bg-yellow"> {posts.map((post) => (
+          <Category
+            topic={post.topic}
+          />
+        ))}</a>
             </Link>
           </h3>
-          <div className="mb-4 md:mb-0 text-lg">
-            <DateFormatter dateString={date} />
-          </div> 
           </div>
       </div>
       <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
