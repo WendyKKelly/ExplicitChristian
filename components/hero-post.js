@@ -7,7 +7,7 @@ import React, { useEffect, useRef } from 'react';
 
 
 export default function HeroPost({
-  title,
+ title,
   topic,
   coverImage,
   date,
