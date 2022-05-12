@@ -9,6 +9,7 @@ import Link from 'next/link'
 import React, { useEffect, useRef } from 'react';
 import Category from '../pages/category/[slug]'
 import postcss from 'postcss'
+import { post } from 'cypress/types/jquery'
 
 
 
@@ -38,18 +39,7 @@ export default function HeroPost({
         <div>
           <ul><li><h3 className="mb-4 text-4xl lg:text-6xl leading-tight">
           <Link as={`/posts/${post.slug}`} href="/posts/[slug]">
-              <a className="hover:bg-yellow"> {posts.map((post) =>(
-                <PostPreview
-                key={post.slug}
-                title={post.title}
-                topic={post.topic}
-                coverImage={post.coverImage}
-                date={post.date}
-                author={post.author}
-                slug={post.slug}
-                excerpt={post.excerpt}
-          />
-          ))}
+              <a className="hover:bg-yellow"> { <MoreCategories topic={post.topic} />}
         </a>
             </Link>
               
