@@ -7,6 +7,7 @@ export default function PostHeader({ title, topic, coverImage, date, author }) {
   return (
     <>
       <PostTitle>{title}</PostTitle>
+      <PostCategory>{topic}</PostCategory>
       <div className="hidden md:block md:mb-12">
         <Avatar name={author.name} picture={author.picture} />
       </div>
