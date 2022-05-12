@@ -6,6 +6,7 @@ import MoreCategories from '../components/more-categories'
 import Link from 'next/link'
 import React, { useEffect, useRef } from 'react';
 import Category from '../pages/category/[slug]'
+import postcss from 'postcss'
 
 
 
@@ -32,15 +33,17 @@ export default function HeroPost({
         />
         </div>
         <div>
-          <h3 className="mb-4 text-4xl lg:text-6xl leading-tight">
-          <Link as={`/posts/${slug}`} href="/posts/[slug]">
+          <ul><li><h3 className="mb-4 text-4xl lg:text-6xl leading-tight">{posts.map((post) =>
+          <Link as={`/posts/${post.slug}`} href="/posts/[slug]">
               <a className="hover:bg-yellow"> 
           
-          {topic}
+          {post.topic}
           
         </a>
             </Link>
-          </h3>
+            )}
+          </h3></li>
+          </ul>
           </div>
       </div>
       <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
