@@ -39,7 +39,7 @@ export default function HeroPost({
         <div>
           <ul><li><h3 className="mb-4 text-4xl lg:text-6xl leading-tight">
           <Link as={`/posts/${post.slug}`} href="/posts/[slug]">
-              <a className="hover:bg-yellow"> { <MoreCategories topic={post.topic} />}
+              <a className="hover:bg-yellow"> Hello
         </a>
             </Link>
               
