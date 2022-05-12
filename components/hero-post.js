@@ -1,9 +1,11 @@
 import Avatar from '../components/avatar'
 import DateFormatter from '../components/date-formatter'
 import CoverImage from '../components/cover-image'
+import MoreCategories from '../components/more-categories'
 //import Category from '../components/category'
 import Link from 'next/link'
 import React, { useEffect, useRef } from 'react';
+import MoreCategories from './more-categories';
 
 
 export default function HeroPost({
@@ -26,6 +28,9 @@ export default function HeroPost({
           height={278}
           width={556}
         />
+        </div>
+        <div>
+          <MoreCategories/>
         </div>
         <div>
           <h3 className="mb-4 text-4xl lg:text-6xl leading-tight">
