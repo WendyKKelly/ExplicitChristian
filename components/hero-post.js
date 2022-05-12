@@ -5,7 +5,7 @@ import MoreCategories from '../components/more-categories'
 //import Category from '../components/category'
 import Link from 'next/link'
 import React, { useEffect, useRef } from 'react';
-import MoreCategories from './more-categories';
+
 
 
 export default function HeroPost({
