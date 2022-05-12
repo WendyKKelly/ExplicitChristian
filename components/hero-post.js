@@ -10,9 +10,15 @@ import Category from '../pages/category/[slug]'
 
 
 export default function HeroPost({
-allPosts
+ title,
+  topic,
+  coverImage,
+  date,
+  excerpt,
+  author,
+  slug,
 }) {
-  const morePosts = allPosts
+
   return (
     <section>
       <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
@@ -26,7 +32,7 @@ allPosts
         />
         </div>
         <div>
-        {morePosts.length > 0 && <MoreCategories posts={morePosts} />}
+       
         
         </div>
         <div>
