@@ -2,14 +2,11 @@ import Avatar from '../components/avatar'
 import DateFormatter from '../components/date-formatter'
 import CoverImage from '../components/cover-image'
 import PostPreview from '../components/post-preview'
-import PostCategory from '../components/post-category'
-import MoreCategories from '../components/more-categories'
-//import Category from '../components/category'
 import Link from 'next/link'
 import React, { useEffect, useRef } from 'react';
 import Category from '../pages/category/[slug]'
 import postcss from 'postcss'
-import { post } from 'cypress/types/jquery'
+
 
 
 
