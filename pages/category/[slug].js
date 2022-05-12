@@ -53,7 +53,7 @@ export async function getStaticProps({ params }) {
     'slug',
    
   ])
-  
+  return { props: { post },}
 }
 
 export async function getStaticPaths() {
