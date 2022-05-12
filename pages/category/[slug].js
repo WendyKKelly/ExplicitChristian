@@ -17,7 +17,7 @@ export default function Category({ post }) {
     return <ErrorPage statusCode={404} />
   }
   return (
-    <Layout preview={preview}>
+    <Layout >
       <Container>
         <Header />
         {router.isFallback ? (
@@ -29,7 +29,7 @@ export default function Category({ post }) {
                 <title>
                   {post.title} | Explicit Christian
                 </title>
-                <meta property="og:image" content={post.ogImage.url} />
+               
               </Head>
               <PostHeader
                 
@@ -53,16 +53,7 @@ export async function getStaticProps({ params }) {
     'slug',
    
   ])
-  const content = await markdownToHtml(post.content || '')
-
-  return {
-    props: {
-      post: {
-        ...post
-       
-      },
-    },
-  }
+  
 }
 
 export async function getStaticPaths() {
