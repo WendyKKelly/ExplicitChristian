@@ -31,12 +31,12 @@ export default function Category({ post, morePosts, preview }) {
                 </title>
                 <meta property="og:image" content={post.ogImage.url} />
               </Head>
-              <PostCategory
+              <PostCategory>{topic}</PostCategory>
                 
-                topic={post.topic}
+                
                 
                
-              />
+              
               
             </article>
           </>
