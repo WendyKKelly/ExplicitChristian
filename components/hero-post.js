@@ -11,7 +11,8 @@ import postcss from 'postcss'
 
 
 export default function HeroPost({
- title,
+ posts,
+  title,
   topic,
   coverImage,
   date,
