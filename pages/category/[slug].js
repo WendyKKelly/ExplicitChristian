@@ -11,7 +11,7 @@ import Head from 'next/head'
 
 import markdownToHtml from '../../lib/markdownToHtml'
 
-export default function Category({ posts }) {
+export default function Category({ post }) {
   const router = useRouter()
   if (!router.isFallback && !post?.slug) {
     return <ErrorPage statusCode={404} />
