@@ -1,17 +1,17 @@
 import Avatar from '../components/avatar'
 import DateFormatter from '../components/date-formatter'
 import CoverImage from '../components/cover-image'
-import PostPreview from '../components/post-preview'
+
 import Link from 'next/link'
 import React, { useEffect, useRef } from 'react';
-import Category from '../pages/category/[slug]'
-import postcss from 'postcss'
+
+
 
 
 
 
 export default function HeroPost({
- posts,
+ 
   title,
   topic,
   coverImage,
@@ -62,19 +62,4 @@ export default function HeroPost({
       </div>
     </section>
   )
-}
-export async function getStaticProps() {
-  const allPosts = getAllPosts([
-    'title',
-    'topic',
-    'date',
-    'slug',
-    'author',
-    'coverImage',
-    'excerpt',
-  ])
-
-  return {
-    props: { allPosts },
-  }
 }
