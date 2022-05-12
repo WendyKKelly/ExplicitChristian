@@ -1,12 +1,12 @@
 import { useRouter } from 'next/router'
 import ErrorPage from 'next/error'
 import Container from '../../components/container'
-
+import PostCategory from '../../components/post-category'
 import Header from '../../components/header'
-import PostHeader from '../../components/post-header'
+
 import Layout from '../../components/layout'
 import { getPostBySlug, getAllPosts } from '../../lib/api'
-import PostTitle from '../../components/post-title'
+
 import Head from 'next/head'
 
 //import markdownToHtml from '../../lib/markdownToHtml'
@@ -31,12 +31,10 @@ export default function Category({ post, morePosts, preview }) {
                 </title>
                 <meta property="og:image" content={post.ogImage.url} />
               </Head>
-              <PostHeader
-                title={post.title}
+              <PostCategory
+                
                 topic={post.topic}
-                coverImage={post.coverImage}
-                date={post.date}
-                author={post.author}
+                
                
               />
               
