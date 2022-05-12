@@ -36,7 +36,7 @@ export default function Category({ post, morePosts, preview }) {
                 topic={post.topic}
                 coverImage={post.coverImage}
                 date={post.date}
-                
+                author={post.author}
                
               />
               
@@ -54,7 +54,7 @@ export async function getStaticProps({ params }) {
     'topic',
     'date',
     'slug',
-   
+    'author',
     'content',
     'ogImage',
     'coverImage',
