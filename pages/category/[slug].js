@@ -9,7 +9,6 @@ import { getPostBySlug, getAllPosts } from '../../lib/api'
 import PostTitle from '../../components/post-title'
 import Head from 'next/head'
 
-import markdownToHtml from '../../lib/markdownToHtml'
 
 export default function Category({ post }) {
   const router = useRouter()
@@ -49,8 +48,12 @@ export async function getStaticProps({ params }) {
   const post = getPostBySlug(params.slug, [
     'title',
     'topic',
-
+    'date',
     'slug',
+    'author',
+    'content',
+    'ogImage',
+    'coverImage',
    
   ])
   return { props: { post },}
