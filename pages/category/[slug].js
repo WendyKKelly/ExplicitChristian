@@ -35,8 +35,8 @@ export default function Category({ post, morePosts, preview }) {
                 title={post.title}
                 topic={post.topic}
                 coverImage={post.coverImage}
-                date={post.date}
-                author={post.author}
+               
+               
               />
               
             </article>
