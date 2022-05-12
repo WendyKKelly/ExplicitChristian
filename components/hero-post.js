@@ -1,6 +1,7 @@
 import Avatar from '../components/avatar'
 import DateFormatter from '../components/date-formatter'
 import CoverImage from '../components/cover-image'
+import PostPreview from '../components/post-preview'
 import PostCategory from '../components/post-category'
 import MoreCategories from '../components/more-categories'
 //import Category from '../components/category'
@@ -38,9 +39,15 @@ export default function HeroPost({
           <ul><li><h3 className="mb-4 text-4xl lg:text-6xl leading-tight">
           <Link as={`/posts/${post.slug}`} href="/posts/[slug]">
               <a className="hover:bg-yellow"> {posts.map((post) =>(
-                <PostCategory
-              key={post.slug}
-          topic={post.topic}
+                <PostPreview
+                key={post.slug}
+                title={post.title}
+                topic={post.topic}
+                coverImage={post.coverImage}
+                date={post.date}
+                author={post.author}
+                slug={post.slug}
+                excerpt={post.excerpt}
           />
           ))}
         </a>
