@@ -1,9 +1,9 @@
 import { useRouter } from 'next/router'
 import ErrorPage from 'next/error'
 import Container from '../../components/container'
-import PostCategory from '../../components/post-category'
-import Header from '../../components/header'
 
+import Header from '../../components/header'
+import PostHeader2 from '../../components/post-header2'
 import Layout from '../../components/layout'
 import { getPostBySlug, getAllPosts } from '../../lib/api'
 
@@ -31,13 +31,11 @@ export default function Category({ post, morePosts, preview }) {
                 </title>
                 <meta property="og:image" content={post.ogImage.url} />
               </Head>
-              <PostCategory>{topic}</PostCategory>
-                
-                
-                
+              <PostHeader2
                
-              
-              
+                topic={post.topic}
+             
+              />
             </article>
           </>
         )}
