@@ -5,6 +5,7 @@ import MoreCategories from '../components/more-categories'
 //import Category from '../components/category'
 import Link from 'next/link'
 import React, { useEffect, useRef } from 'react';
+import Category from '../pages/category/[slug]'
 
 
 
@@ -30,7 +31,8 @@ export default function HeroPost({
         />
         </div>
         <div>
-          <MoreCategories/>
+        {morePosts.length > 0 && <MoreCategories posts={morePosts} />}
+        
         </div>
         <div>
           <h3 className="mb-4 text-4xl lg:text-6xl leading-tight">
@@ -62,4 +64,19 @@ export default function HeroPost({
       </div>
     </section>
   )
+}
+export async function getStaticProps() {
+  const allPosts = getAllPosts([
+    'title',
+    'topic',
+    'date',
+    'slug',
+    'author',
+    'coverImage',
+    'excerpt',
+  ])
+
+  return {
+    props: { allPosts },
+  }
 }
