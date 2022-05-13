@@ -13,7 +13,7 @@ import Head from 'next/head'
 
 export default function Category({ category, morePosts, preview }) {
   const router = useRouter()
-  if (!router.isFallback && !categoryt?.slug) {
+  if (!router.isFallback && !category?.slug) {
     return <ErrorPage statusCode={404} />
   }
   return (
