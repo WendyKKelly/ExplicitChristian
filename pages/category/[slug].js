@@ -11,7 +11,7 @@ import Head from 'next/head'
 
 //import markdownToHtml from '../../lib/markdownToHtml'
 
-export default function Category({ category, morePosts, preview }) {
+export default function Category({ posts, morePosts, preview }) {
   const router = useRouter()
   if (!router.isFallback && !category?.slug) {
     return <ErrorPage statusCode={404} />
@@ -31,12 +31,26 @@ export default function Category({ category, morePosts, preview }) {
                 </title>
               
               </Head>
-              <PostHeader2
-               
-                topic={category.topic}
-             
-              />
-            </article>
+              <section>
+      <h2 className="mb-8 text-6xl md:text-7xl font-bold tracking-tighter leading-tight">
+        More Stories
+      </h2>
+      <div className="grid grid-cols-1 md:grid-cols-2 md:gap-x-16 lg:gap-x-32 gap-y-20 md:gap-y-32 mb-32">
+        {posts.map((post) => (
+          <PostPreview
+            key={post.slug}
+            title={post.title}
+            topic={post.topic}
+            coverImage={post.coverImage}
+            date={post.date}
+            author={post.author}
+            slug={post.slug}
+            excerpt={post.excerpt}
+          />
+        ))}
+      </div>
+    </section>
+    </article>
           </>
         )}
       </Container>
@@ -45,7 +59,7 @@ export default function Category({ category, morePosts, preview }) {
 }
 
 export async function getStaticProps({ params }) {
-  const category = getPostBySlug(params.slug, [
+  const post = getPostBySlug(params.slug, [
     'title',
     'topic',
     'date',
@@ -59,8 +73,8 @@ export async function getStaticProps({ params }) {
 
   return {
     props: {
-      category: {
-        ...category,
+      post: {
+        ...post,
         //content,
       },
     },
@@ -68,13 +82,13 @@ export async function getStaticProps({ params }) {
 }
 
 export async function getStaticPaths() {
-  const category = getAllPosts(['slug'])
+  const posts = getAllPosts(['slug'])
 
   return {
-    paths: category.map((category) => {
+    paths: posts.map((post) => {
       return {
         params: {
-          slug: category.slug,
+          slug: post.slug,
         },
       }
     }),

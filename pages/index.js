@@ -10,7 +10,7 @@ import Subscribe from '../components/Subscribe';
 
 
 export default function Index({ allPosts }) {
-  const heroPost = allPosts[0]
+  const heroPost = allPosts.topic[0]
   const morePosts = allPosts.slice(1)
   return (
     <>
