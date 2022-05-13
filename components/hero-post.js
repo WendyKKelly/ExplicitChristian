@@ -34,9 +34,15 @@ export default function HeroPost({
         />
         </div>
         <div>
-          <ul><li><h3 className="mb-4 text-4xl lg:text-6xl leading-tight">
-          Hello
-              
+          <ul><li><h3 className="mb-4 text-4xl lg:text-6xl leading-tight"><ul>
+
+         
+          <li>Hello</li>
+          <li>Hello</li>
+          <li>Hello</li>
+          <li>Hello</li>
+          <li>Hello</li>
+          </ul> 
           </h3></li>
           </ul>
           </div>
