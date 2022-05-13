@@ -11,9 +11,9 @@ import Head from 'next/head'
 
 //import markdownToHtml from '../../lib/markdownToHtml'
 
-export default function Category({ post, morePosts, preview }) {
+export default function Category({ category, morePosts, preview }) {
   const router = useRouter()
-  if (!router.isFallback && !post?.slug) {
+  if (!router.isFallback && !categoryt?.slug) {
     return <ErrorPage statusCode={404} />
   }
   return (
@@ -27,13 +27,13 @@ export default function Category({ post, morePosts, preview }) {
             <article className="mb-32">
               <Head>
                 <title>
-                  {post.title} | Explicit Christian
+                  {category.title} | Explicit Christian
                 </title>
-                <meta property="og:image" content={post.ogImage.url} />
+              
               </Head>
               <PostHeader2
                
-                topic={post.topic}
+                topic={category.topic}
              
               />
             </article>
@@ -60,7 +60,7 @@ export async function getStaticProps({ params }) {
   return {
     props: {
       category: {
-        ...post,
+        ...category,
         //content,
       },
     },
