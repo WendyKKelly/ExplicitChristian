@@ -45,7 +45,7 @@ export default function Category({ post, morePosts, preview }) {
 }
 
 export async function getStaticProps({ params }) {
-  const post = getPostBySlug(params.slug, [
+  const category = getPostBySlug(params.slug, [
     'title',
     'topic',
     'date',
@@ -59,7 +59,7 @@ export async function getStaticProps({ params }) {
 
   return {
     props: {
-      post: {
+      category: {
         ...post,
         //content,
       },
@@ -68,13 +68,13 @@ export async function getStaticProps({ params }) {
 }
 
 export async function getStaticPaths() {
-  const posts = getAllPosts(['slug'])
+  const category = getAllPosts(['slug'])
 
   return {
-    paths: posts.map((post) => {
+    paths: category.map((category) => {
       return {
         params: {
-          slug: post.slug,
+          slug: category.slug,
         },
       }
     }),
