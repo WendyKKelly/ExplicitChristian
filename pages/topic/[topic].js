@@ -5,7 +5,7 @@ import Container from '../../components/container'
 import Header from '../../components/header'
 import PostHeader2 from '../../components/post-header2'
 import Layout from '../../components/layout'
-import { getAllPosts, getTopics} from '../../lib/api'
+import { getAllPosts, getPostBySlug} from '../../lib/api'
 
 import Head from 'next/head'
 
@@ -27,7 +27,7 @@ export default function Topic({ posts, morePosts, preview, topic }) {
             <article className="mb-32">
               <Head>
                 <title>
-                  {category.title} | Explicit Christian
+                  {topic.title} | Explicit Christian
                 </title>
               
               </Head>
@@ -59,7 +59,7 @@ export default function Topic({ posts, morePosts, preview, topic }) {
 }
 
 export async function getStaticProps({ params }) {
-  const posts = getAllPosts('blog', params.topic, [
+  const posts = getPostBySlug('post', params.topic, [
     'title',
     'topic',
     'date',
@@ -83,16 +83,17 @@ export async function getStaticProps({ params }) {
 }
 
 export async function getStaticPaths() {
-  const topics = getTopics('blog')
+  const posts = getAllPosts(['topic'])
 
   return {
-    paths: topics.map((topic) => {
+    paths: posts.map((post) => {
       return {
         params: {
-          topic,
+          topic: post.topic,
         },
       }
     }),
     fallback: false,
   }
 }
+
