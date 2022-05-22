@@ -28,13 +28,13 @@ export async function getStaticProps({ params }) {
 }
 
 export async function getStaticPaths() {
-  const topic = getAllPosts(['topic'])
+  const posts = getAllPosts(['slug'])
 
   return {
-    paths: topic.map((topic) => {
+    paths: posts.map((post) => {
       return {
         params: {
-          topic: topic.topic,
+          slug: post.slug,
         },
       }
     }),
