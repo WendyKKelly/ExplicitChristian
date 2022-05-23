@@ -1,3 +1,5 @@
+
+import { getPostBySlug, getAllPostTopics } from '../../lib/api'
 import Layout from '../../components/layout';
 
 export default function Topic() {
@@ -28,17 +30,12 @@ export async function getStaticProps({ params }) {
 }
 
 export async function getStaticPaths() {
-  const posts = getAllPosts(['slug'])
+  const paths = getAllPostTopics()
 
   return {
-    paths: posts.map((post) => {
-      return {
-        params: {
-          slug: post.slug,
-        },
-      }
-    }),
+    paths,
+        
     fallback: false,
-  }
+  };
 }
 
