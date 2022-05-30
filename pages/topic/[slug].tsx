@@ -1,5 +1,3 @@
-
-
 import type { GetStaticProps, GetStaticPaths } from "next";
 import { getAllPosts, PostMeta } from '../../lib/api'
 import Head from "next/head";
@@ -24,7 +22,7 @@ export default function TopicPage({
     </>
   );
 }
-}
+
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
   const { slug } = params as { slug: string };

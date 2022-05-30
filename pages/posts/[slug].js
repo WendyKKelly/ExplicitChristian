@@ -5,7 +5,7 @@ import PostBody from '../../components/post-body'
 import Header from '../../components/header'
 import PostHeader from '../../components/post-header'
 import Layout from '../../components/layout'
-import { getPostBySlug, getAllPosts } from '../../lib/api'
+import { getPostFromSlug, getSlugs, PostMeta } from '../../lib/api'
 import PostTitle from '../../components/post-title'
 import Head from 'next/head'
 
@@ -27,18 +27,18 @@ export default function Post({ post, morePosts, preview }) {
             <article className="mb-32">
               <Head>
                 <title>
-                  {post.title} | Explicit Christian
+                  {post.meta.title} | Explicit Christian
                 </title>
                 <meta property="og:image" content={post.ogImage.url} />
               </Head>
               <PostHeader
-                title={post.title}
-                topic={post.topic}
-                coverImage={post.coverImage}
-                date={post.date}
-                author={post.author}
+                title={post.meta.title}
+                topic={post.mata.topic}
+                coverImage={post.meta.coverImage}
+                date={post.meta.date}
+                author={post.meta.author}
               />
-              <PostBody content={post.content} />
+              <PostBody content={post.meta.content} />
             </article>
           </>
         )}
