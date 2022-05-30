@@ -31,6 +31,7 @@
     "webpack-dev-server": "^4.7.4"
   },
   "devDependencies": {
+    "@types/glob": "^7.2.0",
     "@types/react": "^18.0.9",
     "autoprefixer": "^10.2.1",
     "babel-plugin-styled-components": "^1.12.0",
