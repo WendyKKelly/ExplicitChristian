@@ -21,7 +21,7 @@ export default function Index({ allPosts }) {
         <Container>
           <Intro />
          
-          {heroPost && (
+         
             <HeroPost
               title={heroPost.title}
               topic={heroPost.topic}
@@ -31,8 +31,8 @@ export default function Index({ allPosts }) {
               slug={heroPost.slug}
               excerpt={heroPost.excerpt}
             />
-          )}
-          {morePosts.length > 0 && <Articles posts={morePosts} />}
+          
+          <Articles posts={morePosts} />
           <Subscribe />
         </Container>
       </Layout>
