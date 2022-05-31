@@ -10,8 +10,7 @@ import Subscribe from '../components/Subscribe';
 
 
 export default function Index({ allPosts }) {
-  const heroPost = allPosts[0]
-  const morePosts = allPosts.slice(1)
+  
   return (
     <>
       <Layout>
@@ -22,17 +21,9 @@ export default function Index({ allPosts }) {
           <Intro />
          
          
-            <HeroPost
-              title={heroPost.title}
-              topic={heroPost.topic}
-              coverImage={heroPost.coverImage}
-              date={heroPost.date}
-              author={heroPost.author}
-              slug={heroPost.slug}
-              excerpt={heroPost.excerpt}
-            />
+            
           
-          <Articles posts={morePosts} />
+          <Articles posts={posts} />
           <Subscribe />
         </Container>
       </Layout>
