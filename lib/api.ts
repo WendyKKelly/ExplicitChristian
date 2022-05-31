@@ -37,7 +37,7 @@ export interface PostMeta {
   excerpt: string;
   slug: string;
   title: string;
-  topic: string[];
+  topic: string;
   date: string;
   coverImage: string;
 }
@@ -53,9 +53,9 @@ export const getPostFromSlug = (slug: string): Post => {
       slug,
       excerpt: data.excerpt ?? "",
       title: data.title ?? slug,
-      topic: (data.topic ?? []).sort(),
+      topic: data.topic ?? slug,
       date: (data.date ?? new Date()).toString(),
-      coverImage: (data.coverImage ?? "")
+      coverImage: data.coverImage ?? slug
     },
   };
 };
