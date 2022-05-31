@@ -1,7 +1,7 @@
 
 import type { GetStaticProps, GetStaticPaths } from "next";
-import { useRouter } from 'next/router'
-import ErrorPage from 'next/error'
+
+
 import { MDXRemote, MDXRemoteSerializeResult } from "next-mdx-remote";
 import { serialize } from "next-mdx-remote/serialize";
 import rehypeSlug from "rehype-slug";
@@ -22,17 +22,14 @@ interface MDXPost {
   meta: PostMeta;
 }
 export default function Post({ post }: { post: MDXPost }){
-  const router = useRouter()
-  if (!router.isFallback && !post) {
-    return <ErrorPage statusCode={404} />
-  }
+  
   return (
     <Layout >
       <Container>
         <Header />
-        {router.isFallback ? (
+        
           <PostTitle>Loading…</PostTitle>
-        ) : (
+        
           <>
             <article className="mb-32">
               <Head>
@@ -74,7 +71,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
 };
 
 
-export async function getStaticPaths() {
+export const getStaticPaths: GetStaticPaths = async () => {
   const paths = getSlugs().map((slug) => ({ params: { slug } }));
 
   return {
@@ -82,3 +79,4 @@ export async function getStaticPaths() {
     fallback: false,
   };
 };
+
