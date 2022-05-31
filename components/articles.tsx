@@ -13,7 +13,7 @@ export default function Articles({ posts }: { posts: PostMeta[] }) {
           <p>{post.excerpt}</p>
           <p >
             {post.topic.map((topic) => (
-              <Link key={topic} href={`/tags/${topic}`}>
+              <Link key={topic} href={`/topic/${topic}`}>
                 {topic}
               </Link>
             ))}
