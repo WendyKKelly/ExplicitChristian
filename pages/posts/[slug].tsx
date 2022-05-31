@@ -28,7 +28,7 @@ export default function Post({ post }: { post: MDXPost }){
       <Container>
         <Header />
         
-          <PostTitle>Loading…</PostTitle>
+         
         
           <>
             <article className="mb-32">
@@ -40,7 +40,7 @@ export default function Post({ post }: { post: MDXPost }){
               </Head>
               <PostHeader
                 title={post.meta.title}
-                topic={post.meta.topic}
+               
                 coverImage={post.meta.coverImage}
                 date={post.meta.date}
                 

@@ -19,7 +19,7 @@ export default function Home({ posts }: { posts: PostMeta[] }) {
         </Head>
         <Container>
           <Intro />
-          <h1>Articles</h1>
+          
           <Articles posts={posts} />
           <Subscribe />
         </Container>
