@@ -48,7 +48,7 @@ export default function Post({ post }: { post: MDXPost }){
               <MDXRemote {...post.source}  />
             </article>
           </>
-        )}
+        
       </Container>
     </Layout>
   )
