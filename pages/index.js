@@ -1,5 +1,5 @@
 import Container from '../components/container'
-import MoreStories from '../components/more-stories'
+import Articles from '../components/articles'
 import HeroPost from '../components/hero-post'
 import Intro from '../components/intro'
 import Layout from '../components/layout'
@@ -32,7 +32,7 @@ export default function Index({ allPosts }) {
               excerpt={heroPost.excerpt}
             />
           )}
-          {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+          {morePosts.length > 0 && <Articles posts={morePosts} />}
           <Subscribe />
         </Container>
       </Layout>
