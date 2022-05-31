@@ -3,13 +3,13 @@ import Articles from '../components/articles'
 import HeroPost from '../components/hero-post'
 import Intro from '../components/intro'
 import Layout from '../components/layout'
-import { getAllPosts } from '../lib/api'
+import { getAllPosts, PostMeta } from '../lib/api'
 import Head from 'next/head'
 import Subscribe from '../components/Subscribe';
 
 
 
-export default function Index({ allPosts }) {
+export default function Home({ posts }: { posts: PostMeta[] }) {
   
   return (
     <>
@@ -19,10 +19,7 @@ export default function Index({ allPosts }) {
         </Head>
         <Container>
           <Intro />
-         
-         
-            
-          
+          <h1>Articles</h1>
           <Articles posts={posts} />
           <Subscribe />
         </Container>
@@ -32,17 +29,9 @@ export default function Index({ allPosts }) {
 }
 
 export async function getStaticProps() {
-  const allPosts = getAllPosts([
-    'title',
-    'topic',
-    'date',
-    'slug',
-    'author',
-    'coverImage',
-    'excerpt',
-  ])
+  const posts = getAllPosts()
+    .slice(0, 9)
+    .map((post) => post.meta);
 
-  return {
-    props: { allPosts },
-  }
+  return { props: { posts } };
 }
