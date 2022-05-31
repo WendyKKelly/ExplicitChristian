@@ -12,11 +12,11 @@ export default function Articles({ posts }: { posts: PostMeta[] }) {
           </div>
           <p>{post.excerpt}</p>
           <p >
-            {post.topic.map((topic) => (
-              <Link key={topic} href={`/topic/${topic}`}>
-                {topic}
+            
+              <Link key={post.topic} href={`/topic/${post.topic}`}>
+                {post.topic}
               </Link>
-            ))}
+            
           </p>
         </li>
       ))}
