@@ -9,7 +9,7 @@ import Subscribe from '../components/Subscribe';
 
 
 
-export default function Home({ posts}) {
+export default function Home({ posts }: { posts: PostMeta[] }) {
   const heroPost = posts.shift
   const morePosts = posts.slice(1, 9)
   return (
@@ -20,16 +20,15 @@ export default function Home({ posts}) {
         </Head>
         <Container>
           <Intro />
-          {heroPost && (
-          <HeroPost posts={heroPost()}  />)}
-          {morePosts.length > 0 &&
-          <Articles posts={morePosts} />}
+ 
+      
+          <Articles posts={morePosts} />
           <Subscribe />
         </Container>
       </Layout>
     </>
-  )}
-
+  )
+}
 
 export async function getStaticProps() {
   const posts = getAllPosts()
