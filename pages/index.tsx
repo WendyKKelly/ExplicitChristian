@@ -10,8 +10,8 @@ import Subscribe from '../components/Subscribe';
 
 
 export default function Home({ posts }: { posts: PostMeta[] }) {
-  const heroPost = posts.shift
-  const morePosts = posts.slice(2, 9)
+  const heroPost = posts.slice(0, 1)
+  const morePosts = posts.slice(1, 9)
   return (
     <>
       <Layout>
@@ -21,7 +21,7 @@ export default function Home({ posts }: { posts: PostMeta[] }) {
         <Container>
           <Intro />
  
-      
+      <HeroPost posts={heroPost} />
           <Articles posts={morePosts} />
           <Subscribe />
         </Container>
