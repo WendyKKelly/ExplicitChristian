@@ -1,45 +1,24 @@
-import Avatar from '../components/avatar'
-import DateFormatter from '../components/date-formatter'
-import CoverImage from '../components/cover-image'
-
-import Link from 'next/link'
-import React, { useEffect, useRef } from 'react';
-
-
-
-
-
-
-export default function HeroPost({
- 
-  title,
-  topic,
-  coverImage,
-  date,
-  excerpt,
-  author,
-  slug,
-}) {
-
-  return (
+return (
     <section>
       <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
         <div>
-        <CoverImage
-          title={title}
-          src={coverImage}
-          slug={slug}
-          height={278}
-          width={556}
-        />
+        <PostHeader
+                title={post.title}
+                topic={post.topic}
+                coverImage={post.coverImage}
+                date={post.date}
+                
+              />
         </div>
         <div>
           <ul><li><h3 className="mb-4 text-4xl lg:text-6xl leading-tight"><ul>
 
          
-          <li><Link as={`/category/${topic}`} href="/category/[topic]">
+          <li><Link as={`/topic/${topic}`} href="/topic/[topic]">
               <a className="hover:bg-yellow">{topic}</a></Link></li>
-          <li>Hello</li>
+          <li><Link key={post.topic} href={`/topic/${post.topic}`}>
+                {post.topic}
+              </Link></li>
           <li>Hello</li>
           <li>Hello</li>
           <li>Hello</li>
@@ -56,12 +35,12 @@ export default function HeroPost({
             </Link>
           </h3>
           <div className="mb-4 md:mb-0 text-lg">
-            <DateFormatter dateString={date} />
+           
           </div>
         </div>
         <div>
           <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
-          <Avatar name={author.name} picture={author.picture} />
+        
         </div>
       </div>
     </section>
