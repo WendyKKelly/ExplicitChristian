@@ -11,7 +11,7 @@ import Subscribe from '../components/Subscribe';
 
 export default function Home({ posts }: { posts: PostMeta[] }) {
   const heroPost = posts.slice(0)
-  const morePosts = posts.slice(1)
+  const morePosts = posts.slice(1, 9)
   return (
     <>
       <Layout>
