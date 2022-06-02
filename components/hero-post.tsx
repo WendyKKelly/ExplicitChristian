@@ -10,11 +10,11 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
         <li key={post.slug}>
           <div className="">
           <div  >
-            <Link href={`/posts/${post.slug}`}>{post.title}</Link>
+            <Link href={`/posts/${post.slug}`}><a className="hover:bg-yellow">{post.title}</a></Link>
           </div>
           <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
           <PostHeader3
-                title={post.title}
+               
                 
                 coverImage={post.coverImage}
                 
@@ -22,6 +22,22 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
               />
         </div>
         </div>
+        <div>
+          <ul><li><h3 className="mb-4 text-4xl lg:text-6xl leading-tight"><ul>
+
+         
+          <li><Link as={`/topic/${post.topic}`} href="/topic/[topic]">
+              <a className="hover:bg-yellow">{post.topic}</a></Link></li>
+          <li><Link key={post.topic} href={`/topic/${post.topic}`}>
+                {post.topic}
+              </Link></li>
+          <li>Hello</li>
+          <li>Hello</li>
+          <li>Hello</li>
+          </ul> 
+          </h3></li>
+          </ul>
+          </div>
         <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
         <div>
           <h3 className="mb-4 text-4xl lg:text-6xl leading-tight">

@@ -4,10 +4,10 @@ import CoverImage from '../components/cover-image'
 import PostTitle from '../components/post-title'
 
 
-export default function PostHeader3({ title,  coverImage, }) {
+export default function PostHeader3({ coverImage, }) {
   return (
     <>
-      <PostTitle>{title}</PostTitle>
+      
      
       <div className="hidden md:block md:mb-12">
         
