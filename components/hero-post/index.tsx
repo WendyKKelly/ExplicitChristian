@@ -9,7 +9,7 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
     <ul >
  {posts.map((post) => (
    <li key={post.slug}>
-          <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28 hover:bg-yellow">
+          <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
        
           <div >
           <PostHeader3
@@ -43,7 +43,7 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
           </div>
         <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
         <div>
-          <h3 className="md:ml-20 lg:ml-20  md:text-4xl lg:text-6xl leading-loose">
+          <h3 className="md:ml-20 lg:ml-20  md:text-4xl lg:text-6xl leading-loose hover:bg-yellow">
           <Link as={`/posts/${post.slug}`} href="/posts/[slug]">
               <a className="hover:bg-yellow">{post.title}</a>
             </Link>
