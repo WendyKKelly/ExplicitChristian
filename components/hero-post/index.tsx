@@ -30,8 +30,10 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
           <li><Link key={post.topic} href={`/topic/${post.topic}`}>
                 {post.topic}
               </Link></li>
-          <li>Hello</li>
-          <li>Hello</li>
+          <li>Toxicity</li>
+          <li><Link key={post.topic} href={`/topic/toxicity`}>
+                Toxicity
+              </Link></li>
           <li>Hello</li>
           </ul> 
           </h3></li>
