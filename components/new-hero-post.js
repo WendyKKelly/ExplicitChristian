@@ -46,3 +46,9 @@ return (
     </section>
   )
 }
+
+
+ <Link href={`/posts/${post.slug}`}><a className="hover:bg-yellow">{post.title}</a></Link>
+
+ 
+        
