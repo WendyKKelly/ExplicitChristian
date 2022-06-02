@@ -22,7 +22,7 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
         </div>
         
         <div>
-          <ul><li><h3 className="lg:mt-4 ml-8 md:mt-4 ml-8 
+          <ul><li><h3 className="lg:ml-20 md:ml-20 
           md:text-4xl lg:text-6xl leading-tight"><ul>
           <li><Link key={post.topic} href={`/topic/${post.topic}`}>
                 {post.topic}
