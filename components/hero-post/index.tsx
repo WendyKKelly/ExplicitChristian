@@ -28,7 +28,7 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
                 {post.topic}
               </Link></li>
           <li><Link key={post.topic} href={`/topic/toxicity`}>
-                Toxicity
+          <a className="hover:bg-yellow">Toxicity</a>
               </Link></li>
           <li><Link key={post.topic} href={`/topic/toxicity`}>
                 Toxicity
@@ -40,10 +40,9 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
           </h3></li>
           </ul>
           </div>
-          </div>
-        <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
-        <div>
-          <h3 className="md:ml-20 lg:ml-20  md:text-4xl lg:text-6xl leading-loose hover:bg-yellow">
+          <div>
+       
+          <h3 className="md:text-4xl lg:text-6xl leading-tight ">
           <Link as={`/posts/${post.slug}`} href="/posts/[slug]">
               <a className="hover:bg-yellow">{post.title}</a>
             </Link>
