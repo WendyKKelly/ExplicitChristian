@@ -12,7 +12,7 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
               <div>
                 <PostHeader3 coverImage={post.coverImage} />
               </div>
-              <div className="mt-8  pl-16">
+              <div className="ml-16">
                 <ul>
                   <h3 className="text-4xl lg:text-6xl leading-relaxed">
                     <li>
