@@ -8,7 +8,7 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
       {posts.map((post) => (
         <ul>
           <li key={post.slug}>
-            <div className="md:grid md:grid-cols-2  md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
+            <div className="md:grid md:grid-cols-2  text-right md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
               <div>
                 <PostHeader3 coverImage={post.coverImage} />
               </div>
@@ -46,7 +46,7 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
                 </h3>
               </div>
               <div>
-                <p className="text-right ml-16 hover:bg-yellow">{post.excerpt}</p>
+                <p className="hover:bg-yellow">{post.excerpt}</p>
               </div>
             </div>
           </li>
