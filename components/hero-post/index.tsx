@@ -15,7 +15,7 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
               <div className="text-right" >
                 <ul>
                   <h3 className="text-right text-4xl lg:text-right text-6xl leading-relaxed">
-                    <li>
+                    <li className="text-right" >
                       <Link key={post.topic} href={`/topic/${post.topic}`}>
                         <a className="hover:bg-yellow">{post.topic}</a>
                       </Link>
