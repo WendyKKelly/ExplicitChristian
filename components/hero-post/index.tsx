@@ -46,7 +46,7 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
                 </h3>
               </div>
               <div>
-                <p className="text-right hover:bg-yellow">{post.excerpt}</p>
+                <p className="text-right ml-16 hover:bg-yellow">{post.excerpt}</p>
               </div>
             </div>
           </li>
