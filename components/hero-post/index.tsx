@@ -22,17 +22,17 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
                     </li>
                     <li>
                       <Link key={post.topic} href={`/topic/toxicity`}>
-                        <a className="hover:bg-yellow">Toxicity</a>
+                        <a className="hover:bg-yellow">ramblings</a>
                       </Link>
                     </li>
                     <li>
                       <Link key={post.topic} href={`/topic/toxicity`}>
-                        <a className="hover:bg-yellow">Toxicity</a>
+                        <a className="hover:bg-yellow">greek or jesus</a>
                       </Link>
                     </li>
                     <li>
                       <Link key={post.topic} href={`/topic/toxicity`}>
-                        <a className="hover:bg-yellow">Toxicity</a>
+                        <a className="hover:bg-yellow">who knows?</a>
                       </Link>
                     </li>
                   </h3>
