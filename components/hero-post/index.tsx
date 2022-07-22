@@ -22,7 +22,7 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
                     </li>
                     <li>
                       <Link key={post.topic} href={`/topic/toxicity`}>
-                        <a className="hover:bg-yellow">ramblings</a>
+                        <a className="hover:bg-yellow">pro life</a>
                       </Link>
                     </li>
                     <li>
@@ -32,7 +32,7 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
                     </li>
                     <li>
                       <Link key={post.topic} href={`/topic/toxicity`}>
-                        <a className="hover:bg-yellow">who knows?</a>
+                        <a className="hover:bg-yellow">faith</a>
                       </Link>
                     </li>
                   </h3>
