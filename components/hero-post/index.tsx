@@ -1,16 +1,25 @@
 import type { PostMeta } from "../../lib/api";
+import './hero-post.css';
 import PostHeader3 from "../post-header3";
 import Link from "next/link";
 
 export default function HeroPost({ posts }: { posts: PostMeta[] }) {
+
+
   return (
     <section>
       {posts.map((post) => (
         <ul>
           <li key={post.slug}>
             <div className="md:grid md:grid-cols-2  text-center md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
+              <div className="slider">
               <div>
-                <PostHeader3 coverImage={post.coverImage} />
+                <div className="slide">
+                  <div className="img">
+                <PostHeader3 coverImage={post.coverImage} /></div></div>
+                <button className="btn btn-next">{0}</button>
+    <button className="btn btn-prev">{0}</button>
+    </div>
               </div>
               <div className="" >
                 <ul>

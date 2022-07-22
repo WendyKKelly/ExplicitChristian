@@ -10,7 +10,7 @@ import Subscribe from '../components/Subscribe';
 
 
 export default function Home({ posts }: { posts: PostMeta[] }) {
-  const heroPost = posts.slice(0, 1)
+  const heroPost = posts.slice(0, 9)
   const morePosts = posts.slice(1, 9)
   return (
     <>

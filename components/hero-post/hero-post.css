@@ -9,3 +9,59 @@
    .twitterbird:hover {
       background-image: url('twitterbird_hover.png');
    }
+   
+    
+    .slider {
+      width: 100%;
+      max-width: 100vw;
+      height: 100%;
+      
+      position: relative;
+      overflow: hidden; 
+      
+      border-radius: 2rem;
+    }
+    
+    .slide {
+      width: 100%;
+      max-width: 100vw;
+      
+      box-sizing: border-box;
+      padding: 10px;
+      position: absolute;
+      transition: all 0.5s;
+    }
+    
+    .slide img {
+      width: 100%;
+      
+      object-fit: cover;
+    }
+    
+   .btn {
+    
+      position: absolute;
+      width: 40px;
+      height: 40px;
+      padding: 10px;
+      border: none;
+      border-radius: 50%;
+      z-index: 10px;
+      cursor: pointer;
+      background-color: #fff;
+      font-size: 18px;
+    }
+    
+    .btn:active {
+      transform: scale(1.1);
+    }
+    
+    .btn-prev {
+      top: 25%;
+      left: 2%;
+    }
+    
+    .btn-next {
+      top: 25%;
+      right: 2%;
+    }
