@@ -1,5 +1,5 @@
 import type { PostMeta } from "../../lib/api";
-import './hero-post.css';
+
 import PostHeader3 from "../post-header3";
 import Link from "next/link";
 
