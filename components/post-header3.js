@@ -10,7 +10,7 @@ export default function PostHeader3({ coverImage, }) {
       
      
       
-      <div className="mb-8 md:mb-16 sm:mx-0">
+      <div >
         <CoverImage  src={coverImage} height={620} width={1240} />
       </div>
     
