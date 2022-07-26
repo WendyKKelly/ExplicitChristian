@@ -1,6 +1,6 @@
 import type { PostMeta } from "../../lib/api";
 import Script from 'next/script';
-
+import PostHeader3 from "../post-header3";
 import Link from "next/link";
 
 export default function HeroPost({ posts }: { posts: PostMeta[] }) {
@@ -14,12 +14,13 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
       {posts.map((post) => (
         <ul>
           <li key={post.slug}>
+          <div className="slider">
             <div className="md:grid md:grid-cols-2  text-center md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
-              <div className="slider">
+              
               <div>
                 <div className="slide">
                   <div className="img">
-                src={post.coverImage} </div></div>
+                  <PostHeader3 coverImage={post.coverImage} /></div></div>
                 <button className="btn btn-next">{0}</button>
     <button className="btn btn-prev">{0}</button>
     </div>
