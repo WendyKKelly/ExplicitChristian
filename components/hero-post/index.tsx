@@ -12,12 +12,12 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
     
     <section>
       {posts.map((post) => (
-        <ul>
+        <ul className="hlist">
           <li key={post.slug}>
-          <div className="slider">
+          
             <div className="md:grid md:grid-cols-2  text-center md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
-              
-              <div>
+            <div className="slider">
+            <div >
                 <div className="slide">
                   <div className="img">
                   <PostHeader3 coverImage={post.coverImage} /></div></div>
