@@ -1,6 +1,6 @@
 import type { PostMeta } from "../../lib/api";
 import Script from 'next/script';
-import PostHeader3 from "../post-header3";
+
 import Link from "next/link";
 
 export default function HeroPost({ posts }: { posts: PostMeta[] }) {
@@ -19,7 +19,7 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
               <div>
                 <div className="slide">
                   <div className="img">
-                <PostHeader3 coverImage={post.coverImage} /></div></div>
+                src={post.coverImage} </div></div>
                 <button className="btn btn-next">{0}</button>
     <button className="btn btn-prev">{0}</button>
     </div>
