@@ -1,7 +1,7 @@
 const slides = document.querySelectorAll(".img");
 
 slides.forEach((slide, indx) => {
-    slide.style.transform = `{translateX(${indx * 100}%)}`;
+    slide.style.transform = `{translateY(${indx * 100}%)}`;
 });
 
 const nextSlide = document.querySelector(".btn-next");
@@ -16,7 +16,7 @@ nextSlide.addEventListener("click", function () {
         curSlide++;
       }
     slides.forEach((slide, indx) => {
-        slide.style.transform = `translateX(${100 * (indx - curSlide)}%)`;
+        slide.style.transform = `translateY(${100 * (indx - curSlide)}%)`;
     });
 });
 
@@ -33,6 +33,6 @@ prevSlide.addEventListener("click", function () {
   }
 
   slides.forEach((slide, indx) => {
-    slide.style.transform = `translateX(${100 * (indx - curSlide)}%)`;
+    slide.style.transform = `translateY(${100 * (indx - curSlide)}%)`;
   });
 });
