@@ -32,21 +32,7 @@ line-height: 2.5rem;
 /* Stop purging. */
 
 /* Your own custom utilities */
-.hlist {
-  padding: 0; margin: 0;
-  display: flex;
-  width: 100%;
-  max-width: 100vw;
-  height: 100%;
-  
-  position: relative;
-  overflow: hidden; 
-  
-  border-radius: 2rem;
-}
-.hlist li { 
-  list-style-type: none; 
-}
+
 .slider {
   width: 100%;
   max-width: 100vw;
