@@ -12,18 +12,18 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
     
     <section>
       {posts.map((post) => (
-        <ul >
-          <li key={post.slug}>
-          
+        <div className="slider">
+        
+            <div className="slide" key={post.slug}>
             <div className="md:grid md:grid-cols-2  text-center md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
-            <div className="slider">
+            
             <div >
-                <div className="slide">
+                
                   <div className="img">
-                  <PostHeader3 coverImage={post.coverImage} /></div></div>
+                  <PostHeader3 coverImage={post.coverImage} /></div>
                   <button className="btn btn-next">{0}</button>
     <button className="btn btn-prev">{0}</button>
-    </div>
+    
               </div>
               <div className="" >
                 <ul>
@@ -62,9 +62,9 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
                 <p className="hover:bg-yellow">{post.excerpt}</p>
               </div>
             </div>
-          </li>
+          </div>
           
-        </ul>
+        </div>
       ))}
     </section>
     </>
