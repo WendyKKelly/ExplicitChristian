@@ -1,12 +1,16 @@
 import type { PostMeta } from "../../lib/api";
-
+import Script from 'next/script';
 import PostHeader3 from "../post-header3";
 import Link from "next/link";
+<Script src="../slider.js" strategy="lazyOnload">
 
+</Script>
 export default function HeroPost({ posts }: { posts: PostMeta[] }) {
 
 
   return (
+   
+  
     <section>
       {posts.map((post) => (
         <ul>
