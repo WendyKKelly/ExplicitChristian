@@ -2,15 +2,14 @@ import type { PostMeta } from "../../lib/api";
 import Script from 'next/script';
 import PostHeader3 from "../post-header3";
 import Link from "next/link";
-<Script src="../slider.js" strategy="lazyOnload">
 
-</Script>
 export default function HeroPost({ posts }: { posts: PostMeta[] }) {
 
 
   return (
-   
-  
+   <>
+    <Script src="../slider.js" strategy="lazyOnload" />
+    
     <section>
       {posts.map((post) => (
         <ul>
@@ -34,17 +33,17 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
                       </Link>
                     </li>
                     <li>
-                      <Link key={post.topic} href={`/topic/toxicity`}>
+                      <Link key={post.topic} href={`/topic/pro life`}>
                         <a className="hover:bg-yellow">pro life</a>
                       </Link>
                     </li>
                     <li>
-                      <Link key={post.topic} href={`/topic/toxicity`}>
+                      <Link key={post.topic} href={`/topic/greek or jesus`}>
                         <a className="hover:bg-yellow">greek or jesus</a>
                       </Link>
                     </li>
                     <li>
-                      <Link key={post.topic} href={`/topic/toxicity`}>
+                      <Link key={post.topic} href={`/topic/faith`}>
                         <a className="hover:bg-yellow">faith</a>
                       </Link>
                     </li>
@@ -66,5 +65,6 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
         </ul>
       ))}
     </section>
+    </>
   );
 }
