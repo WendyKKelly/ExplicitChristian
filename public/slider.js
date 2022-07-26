@@ -1,4 +1,4 @@
-const slides = document.querySelectorAll(".slide");
+const slides = document.querySelectorAll(".img");
 
 slides.forEach((slide, indx) => {
     slide.style.transform = `{translateX(${indx * 100}%)}`;
