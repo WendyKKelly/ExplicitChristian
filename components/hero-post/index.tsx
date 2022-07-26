@@ -21,7 +21,8 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
                 <div className="slide">
                   <div className="img">
                   <PostHeader3 coverImage={post.coverImage} /></div></div>
-                
+                  <button className="btn btn-next">{0}</button>
+    <button className="btn btn-prev">{0}</button>
     </div>
               </div>
               <div className="" >
@@ -62,8 +63,7 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
               </div>
             </div>
           </li>
-          <button className="btn btn-next">{0}</button>
-    <button className="btn btn-prev">{0}</button>
+          
         </ul>
       ))}
     </section>
