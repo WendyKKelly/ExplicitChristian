@@ -12,7 +12,7 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
     
     <section>
       {posts.map((post) => (
-        <ul className="hlist">
+        <ul >
           <li key={post.slug}>
           
             <div className="md:grid md:grid-cols-2  text-center md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
@@ -21,8 +21,7 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
                 <div className="slide">
                   <div className="img">
                   <PostHeader3 coverImage={post.coverImage} /></div></div>
-                <button className="btn btn-next">{0}</button>
-    <button className="btn btn-prev">{0}</button>
+                
     </div>
               </div>
               <div className="" >
@@ -63,6 +62,8 @@ export default function HeroPost({ posts }: { posts: PostMeta[] }) {
               </div>
             </div>
           </li>
+          <button className="btn btn-next">{0}</button>
+    <button className="btn btn-prev">{0}</button>
         </ul>
       ))}
     </section>
