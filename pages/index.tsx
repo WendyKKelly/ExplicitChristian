@@ -21,7 +21,7 @@ export default function Home({ posts }: { posts: PostMeta[] }) {
         <Container>
           <Intro />
  
-      <div className="hide"><HeroPost posts={heroPost} /></div>
+      <div className=""><HeroPost posts={heroPost} /></div>
           <Articles posts={morePosts} />
           <Subscribe />
         </Container>
