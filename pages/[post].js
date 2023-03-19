@@ -48,7 +48,7 @@ export default function Post({ post, content }) {
 }
 
 export const getStaticPaths = async () => {
-  const database = await getDatabase("f9dfc334e89e4c2289b9bc98884b5e80");
+  const database = await getDatabase("1a77d07984a34990be967ece628596d5?v=4e61146796954bb18dbfb9dc39b57a0a");
   const paths = database.map((post) => {
     return {
       params: {
