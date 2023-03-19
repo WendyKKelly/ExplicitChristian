@@ -1,61 +1,47 @@
-import path from "path";
-import fs from "fs";
-import { sync } from "glob";
-import matter from "gray-matter";
+import fs from 'fs'
+import { join } from 'path'
+import matter from 'gray-matter'
 
-const POSTS_PATH = path.join(process.cwd(), "posts");
+const postsDirectory = join(process.cwd(), '_posts')
 
-export const getSlugs = (): string[] => {
-  const paths = sync(`${POSTS_PATH}/*.mdx`);
-
-  return paths.map((path) => {
-    const parts = path.split("/");
-    const fileName = parts[parts.length - 1];
-    const [slug, _ext] = fileName.split(".");
-    return slug;
-  });
-};
-
-export const getAllPosts = () => {
-  const posts = getSlugs()
-    .map((slug) => getPostFromSlug(slug))
-    .sort((a, b) => {
-      if (a.meta.date > b.meta.date) return 1;
-      if (a.meta.date < b.meta.date) return -1;
-      return 0;
-    })
-    .reverse();
-  return posts;
-};
-
-interface Post {
-  content: string;
-  meta: PostMeta;
+export function getPostSlugs() {
+  return fs.readdirSync(postsDirectory)
 }
 
-export interface PostMeta {
-  excerpt: string;
-  slug: string;
-  title: string;
-  topic: string;
-  date: string;
-  coverImage: string;
+export function getPostBySlug(slug: string, fields: string[] = []) {
+  const realSlug = slug.replace(/\.md$/, '')
+  const fullPath = join(postsDirectory, `${realSlug}.md`)
+  const fileContents = fs.readFileSync(fullPath, 'utf8')
+  const { data, content } = matter(fileContents)
+
+  type Items = {
+    [key: string]: string
+  }
+
+  const items: Items = {}
+
+  // Ensure only the minimal needed data is exposed
+  fields.forEach((field) => {
+    if (field === 'slug') {
+      items[field] = realSlug
+    }
+    if (field === 'content') {
+      items[field] = content
+    }
+
+    if (typeof data[field] !== 'undefined') {
+      items[field] = data[field]
+    }
+  })
+
+  return items
 }
 
-export const getPostFromSlug = (slug: string): Post => {
-  const postPath = path.join(POSTS_PATH, `${slug}.mdx`);
-  const source = fs.readFileSync(postPath);
-  const { content, data } = matter(source);
-
-  return {
-    content,
-    meta: {
-      slug,
-      excerpt: data.excerpt ?? "",
-      title: data.title ?? slug,
-      topic: data.topic ?? slug,
-      date: (data.date ?? new Date()).toString(),
-      coverImage: data.coverImage ?? slug
-    },
-  };
-};
+export function getAllPosts(fields: string[] = []) {
+  const slugs = getPostSlugs()
+  const posts = slugs
+    .map((slug) => getPostBySlug(slug, fields))
+    // sort posts by date in descending order
+    .sort((post1, post2) => (post1.date > post2.date ? -1 : 1))
+  return posts
+}
